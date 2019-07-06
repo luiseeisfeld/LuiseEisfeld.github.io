@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
@@ -23,15 +22,11 @@ Coming soon.
 
 Academic Work in Progress
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Coming soon.
   
 Teaching Experiences
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Applied Econometrics (Graduate Course), Spring 2019.
   
 Technical Skills
 ======
