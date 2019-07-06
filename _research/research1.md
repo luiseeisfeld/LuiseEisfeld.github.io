@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Research"
 collection: Research
 permalink: 
 excerpt: ''
