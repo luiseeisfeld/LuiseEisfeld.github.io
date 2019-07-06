@@ -11,18 +11,19 @@ redirect_from:
 Education
 ======
 * Ph.D. Economics, Toulouse School of Economics (expected: 2021)
+  * DEEQA, 2018
 * M.Sc. Economics, Toulouse School of Economics, 2017
-  * First year: M1 Economics
-  * Second year: M2 Economic Theory and Econometrics
+  * M1 Economics
+  * M2 Economic Theory and Econometrics
 * B.Sc. Economics, University of Mannheim, 2015
 
-Professional experience
+Professional Experience
 ======
-Coming soon.
+* Coming soon.
 
 Academic Work in Progress
 ======
-Coming soon.
+* Coming soon.
   
 Teaching Experiences
 ======
