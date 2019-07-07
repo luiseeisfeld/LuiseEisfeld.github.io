@@ -1,6 +1,5 @@
 ---
 title: "Applied Econometrics (M1), Spring 2019"
-collection: teaching
 type: "Graduate course"
 permalink: 
 venue: "Toulouse School of Economics"
