@@ -26,8 +26,11 @@ In this paper, I study how Online Travel Agents' default ranking of hotels influ
 ### Teaching Experiences
 Applied Econometrics (Graduate Course), Spring 2019.
 
-### Scholarships
-PROMOS Scholarship (merit-based scholarship granted by the German Academic Exchange Service) while being Visiting Student in Hong Kong.
+### Scholarships, Awards, Invited Workshops
+* NBER Graduate Workshop on the Economics of Artificial Intelligence, Toronto, 2019 (scheduled)
+* PROMOS Scholarship (by German Academic Exchange Service), 2014
+* Dean's List, Hong Kong University of Science and Technology, 2014
+
   
 ### Technical Skills
 R, Matlab, Python, STATA, LaTeX.
