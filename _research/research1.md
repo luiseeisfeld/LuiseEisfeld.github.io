@@ -1,7 +1,7 @@
 ---
 title: "Research"
 collection: Research
-permalink: 
+permalink: /research/
 excerpt: ''
 date: ''
 venue: ''
