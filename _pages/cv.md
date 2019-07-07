@@ -17,9 +17,7 @@ Education
   
 Academic Work in Progress
 ------
-* "How do Online Product Rankings Influence Sellers’ Pricing Behavior?"
-
-(Paper available upon request.)
+* "How do Online Product Rankings Influence Sellers’ Pricing Behavior?" - In this paper, I study how Online Travel Agents' default ranking of hotels influences hotels' price-setting decisions. (Paper available upon request.)
 
 Professional Experience
 ------
