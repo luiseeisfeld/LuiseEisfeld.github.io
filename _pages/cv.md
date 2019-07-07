@@ -7,7 +7,6 @@ permalink: /cv/
 
 ### Education
 * Ph.D. Economics, Toulouse School of Economics (expected: 2021)
-  * DEEQA, 2018
 * M.Sc. Economics, Toulouse School of Economics, 2017
   * M1 Economics
   * M2 Economic Theory and Econometrics
@@ -15,8 +14,7 @@ permalink: /cv/
 * Visiting Student, Hong Kong University of Science and Technology, 2014
   
 ### Academic Work in Progress
-"How do Online Product Rankings Influence Sellers’ Pricing Behavior?" 
-
+"How do Online Product Rankings Influence Sellers’ Pricing Behavior?" \
 In this paper, I study how Online Travel Agents' default ranking of hotels influences hotels' price-setting decisions. (Paper available upon request.)
 
 ### Professional Experience
