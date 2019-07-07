@@ -33,4 +33,4 @@ PROMOS Scholarship (merit-based scholarship granted by the German Academic Excha
 R, Matlab, Python, STATA, LaTeX.
 
 ### Languages
-German (native), English (fluent), French (fluent), Chinese (beginner).
+German (native), English (fluent), French (fluent), Mandarin (beginner).
