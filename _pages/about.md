@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This website is currently under construction.
+I am a Ph.D. Candidate at the Toulouse School of Economics. In my research, I explore how digitization affects market structure and competition. 
 
