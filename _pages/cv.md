@@ -13,15 +13,19 @@ Education
   * M1 Economics
   * M2 Economic Theory and Econometrics
 * B.Sc. Economics, University of Mannheim, 2015
+  * Visiting Student, Hong Kong University of Science and Technology, 2014
+  
+Academic Work in Progress
+------
+* How do Online Product Rankings Influence Sellers’ Pricing Behavior? 
+(Paper available upon request.)
 
 Professional Experience
 ------
-* Coming soon.
+* United Nations Industrial Development Organization (UNIDO), 2016
+* Landesbank Hessen-Thuringen, 2014
+* Collaborative Research Center “Political Economy of Reforms”, University of Mannheim, 2013
 
-Academic Work in Progress
-------
-* Coming soon.
-  
 Teaching Experiences
 ------
 * Applied Econometrics (Graduate Course), Spring 2019.
