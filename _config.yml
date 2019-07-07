@@ -92,7 +92,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "luise.eisfeld@tse-fr.eu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -104,16 +104,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "luise-eisfeld-956346b7"
+  linkedin         : # "luise-eisfeld-956346b7"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@Luise_Eis"
+  twitter          : # "@Luise_Eis"
   vine             :
   weibo            :
   xing             :
