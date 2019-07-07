@@ -10,7 +10,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luise Eisfeld"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Luise Eisfeld"
 description              : &description "Ph.D. Candidate at Toulouse School of Economics"
