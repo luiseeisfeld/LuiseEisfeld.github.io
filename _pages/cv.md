@@ -7,7 +7,7 @@ author_profile: true
 
 
 Education
-======
+------
 * Ph.D. Economics, Toulouse School of Economics (expected: 2021)
   * DEEQA, 2018
 * M.Sc. Economics, Toulouse School of Economics, 2017
@@ -16,21 +16,21 @@ Education
 * B.Sc. Economics, University of Mannheim, 2015
 
 Professional Experience
-======
+------
 * Coming soon.
 
 Academic Work in Progress
-======
+------
 * Coming soon.
   
 Teaching Experiences
-======
+------
 * Applied Econometrics (Graduate Course), Spring 2019.
   
 Technical Skills
-======
+------
 * R, Matlab, Python, STATA, LaTeX.
 
 Languages
-=====
+------
 * German (native), English (fluent), French (fluent), Chinese (beginner).
