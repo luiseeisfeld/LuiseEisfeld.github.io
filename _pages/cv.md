@@ -17,12 +17,14 @@ Education
   
 Academic Work in Progress
 ------
-* "How do Online Product Rankings Influence Sellers’ Pricing Behavior?" - In this paper, I study how Online Travel Agents' default ranking of hotels influences hotels' price-setting decisions. (Paper available upon request.)
+"How do Online Product Rankings Influence Sellers’ Pricing Behavior?" 
+
+In this paper, I study how Online Travel Agents' default ranking of hotels influences hotels' price-setting decisions. (Paper available upon request.)
 
 Professional Experience
 ------
 * Internship: United Nations Industrial Development Organization (UNIDO), 2016
-* Internship: Landesbank Hessen-Thuringen, 2014
+* Internship: Landesbank Hessen-Th&uuml;ringen, 2014
 * Research Assistantship: Collaborative Research Center “Political Economy of Reforms”, University of Mannheim, 2013
 
 Teaching Experiences
