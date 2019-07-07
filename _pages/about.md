@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. Candidate at the Toulouse School of Economics. 
+I am a Ph.D. Candidate in Economics at the Toulouse School of Economics. 
 
 I am interested in Empirical Industrial Organization and the Economics of Digitization. In my current research, I explore how digitization affects market structure and competition. 
 
