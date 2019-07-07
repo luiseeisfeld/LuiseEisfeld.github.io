@@ -28,7 +28,7 @@ Applied Econometrics (Graduate Course), Spring 2019.
 
 ### Scholarships, Awards, and Workshops
 * NBER Graduate Workshop on the Economics of Artificial Intelligence, Toronto, 2019 (scheduled)
-* PROMOS Scholarship (by German Academic Exchange Service), 2014
+* PROMOS Scholarship (granted by the German Academic Exchange Service), 2014
 * Dean's List, Hong Kong University of Science and Technology, 2014
   
 ### Technical Skills
