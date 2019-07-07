@@ -17,14 +17,15 @@ Education
   
 Academic Work in Progress
 ------
-* How do Online Product Rankings Influence Sellers’ Pricing Behavior? 
+* "How do Online Product Rankings Influence Sellers’ Pricing Behavior?"
+
 (Paper available upon request.)
 
 Professional Experience
 ------
-* United Nations Industrial Development Organization (UNIDO), 2016
-* Landesbank Hessen-Thuringen, 2014
-* Collaborative Research Center “Political Economy of Reforms”, University of Mannheim, 2013
+* Internship: United Nations Industrial Development Organization (UNIDO), 2016
+* Internship: Landesbank Hessen-Thuringen, 2014
+* Research Assistantship: Collaborative Research Center “Political Economy of Reforms”, University of Mannheim, 2013
 
 Teaching Experiences
 ------
