@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Could add a skin
+# minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Luise Eisfeld"
@@ -81,13 +84,13 @@ analytics:
 # Site Author
 author:
   name             : "Luise Eisfeld"
-  avatar           : "profile.png"
+  avatar           : "images/luise_pic.jpg"
   bio              : "Ph.D. Candidate in Economics at the Toulouse School of Economics. Working on Empirical Industrial Organization and the Economics of Digitization."
   location         : "Toulouse, France"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "luise dot eisfeld at tse-fr dot eu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
