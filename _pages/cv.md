@@ -11,7 +11,7 @@ permalink: /cv/
   * M1 Economics
   * M2 Economic Theory and Econometrics
 * B.Sc. Economics, University of Mannheim, 2015
-* Visiting Student, Hong Kong University of Science and Technology, 2014
+* Visiting Student, Hong Kong University of Science and Technology, Fall 2014
   
 ### Academic Work in Progress
 "How do Online Product Rankings Influence Sellers’ Pricing Behavior?" - 
