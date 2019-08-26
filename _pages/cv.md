@@ -1,8 +1,8 @@
 ---
 title: "CV"
 permalink: /cv/
+author_profile: true
 ---
-
 
 ### Education
 * Ph.D. Economics, Toulouse School of Economics (expected: 2021)
