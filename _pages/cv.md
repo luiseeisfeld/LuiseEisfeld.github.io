@@ -16,7 +16,7 @@ author_profile: true
   
 ### Academic Work in Progress
 "How do Online Product Rankings Influence Sellers’ Pricing Behavior?" - 
-In this paper, I study how Online Travel Agents' default ranking of hotels influences hotels' price-setting decisions. _(Paper available upon request.)_
+In this paper, I study the impact of ranking algorithms on how sellers on a platform compete by investigating how Online Travel Agents' default ranking of hotels influences hotels' price-setting decisions. _(Paper available upon request.)_
 * Presented at: Applied Microeconomics and IO Student Workshop (TSE, 2018), Competition and Innovation Summer School (Montenegro, 2019) and EARIE (Barcelona, 2019).
 
 ### Professional Experience
