@@ -23,6 +23,7 @@ In this paper, I study how Online Travel Agents' default ranking of hotels influ
 * Research Assistantship: Collaborative Research Center “Political Economy of Reforms”, University of Mannheim, 2013
 
 ### Teaching Experiences
+* Competition Policy Workshop, Spring 2020.
 * Intermediate Econometrics (Graduate Course), Fall 2019.
 * Applied Econometrics (Graduate Course), Spring 2019.
 
