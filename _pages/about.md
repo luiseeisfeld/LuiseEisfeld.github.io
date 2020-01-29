@@ -3,8 +3,8 @@ permalink: /
 title: "Welcome to my website!"
 excerpt: "About me"
 author_profile: true
-header:
-  image: /images/picture_luise.jpg
+# header:
+#   image: /images/picture_luise.jpg 
 redirect_from: 
   - /about/
   - /about.html
