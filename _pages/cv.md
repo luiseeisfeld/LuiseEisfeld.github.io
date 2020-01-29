@@ -6,7 +6,7 @@ author_profile: true
 
 ### Education
 * Ph.D. Economics, Toulouse School of Economics (expected: 2022)
-  * Advisors: Alexandre de Corni`ere; Daniel Ershov; Bruno Jullien
+  * Advisors: Alexandre de Corniere; Daniel Ershov; Bruno Jullien
 * MPhil European Diploma for Advanced Quantitative Economics (DEEQA), Toulouse School of Economics, 2018
 * M.Sc. Economics, Toulouse School of Economics, 2017
   * M1 Economics
