@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### Education
-* Ph.D. Economics, Toulouse School of Economics (expected: 2021)
+* Ph.D. Economics, Toulouse School of Economics (expected: 2022)
 * M.Sc. Economics, Toulouse School of Economics, 2017
   * M1 Economics
   * M2 Economic Theory and Econometrics
@@ -28,7 +28,7 @@ In this paper, I study how Online Travel Agents' default ranking of hotels influ
 * Applied Econometrics (Graduate Course), Spring 2019.
 
 ### Scholarships, Awards, and Workshops
-* NBER Graduate Workshop on the Economics of Artificial Intelligence, Toronto, 2019 (scheduled)
+* NBER Graduate Workshop on the Economics of Artificial Intelligence, Toronto, 2019
 * PROMOS Scholarship (granted by the German Academic Exchange Service), 2014
 * Dean's List, Hong Kong University of Science and Technology, 2014
   
