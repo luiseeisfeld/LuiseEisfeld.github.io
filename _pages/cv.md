@@ -6,6 +6,7 @@ author_profile: true
 
 ### Education
 * Ph.D. Economics, Toulouse School of Economics (expected: 2022)
+  * Advisors: Alexandre de Corniere; Daniel Ershov; Bruno Jullien
 * M.Sc. Economics, Toulouse School of Economics, 2017
   * M1 Economics
   * M2 Economic Theory and Econometrics
