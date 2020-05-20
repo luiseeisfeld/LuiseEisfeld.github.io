@@ -1,16 +1,14 @@
-# Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Could add a skin
-# minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Luise's home page"
 title_separator          : "-"
 name                     : &name "Luise Eisfeld"
 description              : &description "Ph.D. Candidate at Toulouse School of Economics"
@@ -86,7 +84,7 @@ analytics:
 author:
   name             : "Luise Eisfeld"
   avatar           : "picture_luise.jpg"
-  bio              : "Ph.D. Candidate in Economics"
+  bio              : "Ph.D. Candidate in Economics" # put <br> for a line break
   location         : "Toulouse School of Economics"
   employer         :
   pubmed           : 
