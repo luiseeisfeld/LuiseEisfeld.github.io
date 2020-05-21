@@ -74,7 +74,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none; // changed from underline to none. Links should thus not be underlined when hovering above it.
 
     &:hover {
       text-decoration: underline;
