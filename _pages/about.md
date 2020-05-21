@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. Candidate in Economics at the Toulouse School of Economics. 
+I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). 
 
 I am interested in **Empirical Industrial Organization** and the **Economics of Digitization**. In my current research, I explore how digitization affects market structure and competition. 
 
