@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Luise Eisfeld"
-  avatar           : "picture_luise_color_small.jpg"
+  avatar           : "picture_luise_color_smallest.jpg"
   bio              : "Ph.D. Candidate in Economics" # put <br> for a line break
   location         : "Toulouse School of Economics"
   employer         :
