@@ -8,7 +8,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luise's home page"
+title                    : "Luise Eisfeld"
 title_separator          : "-"
 name                     : &name "Luise Eisfeld"
 description              : &description "Ph.D. Candidate at Toulouse School of Economics"
@@ -18,7 +18,7 @@ repository               : "LuiseEis/LuiseEis.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 180
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Luise Eisfeld"
-  avatar           : "picture_luise.jpg"
+  avatar           : "picture_luise_color.jpg"
   bio              : "Ph.D. Candidate in Economics" # put <br> for a line break
   location         : "Toulouse School of Economics"
   employer         :
