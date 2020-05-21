@@ -18,7 +18,8 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include container; // this is new
+    @include span(10 of 12 last); // I could change these
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
