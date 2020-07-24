@@ -9,14 +9,11 @@ Along with [Rossi Abi Rafeh](https://www.rossiabirafeh.com) and [Kevin Remmy](ht
 ### Collection of Links and Resources
 
 **Relevant for any Economist**
-
 * [Jennifer Doleac](http://jenniferdoleac.com/resources/) has an amazing list of resources for aspiring Economists on her website.
 
 **Antitrust related**
-
-* The [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) has an amazing list of resources.
+* The [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) features a list of resources (data, scholarly & popular publications, etc.).
 
 **Data**
-
 * [Imke Reimers](https://imkereimers.weebly.com/research.html) has a great list of crowd-sourced data resources that can be used for research on the Economics of Digitization on hwer website.
 
