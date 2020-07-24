@@ -26,6 +26,6 @@ Along with [Rossi Abi Rafeh](https://www.rossiabirafeh.com) and [Kevin Remmy](ht
 
 ### Intros to Coding
 * "Code and Data for the Social Sciences: A Practitioner's Guide" by [Matthew Gentzkow and Jesse M. Shapiro](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml?fbclid=IwAR381DWz0EN5geI4Qg8YPxjQdnjVpLYJZJZIa2CDSWdoUEGCm3t3lOYw0cw#magicparlabel-1348)
-* "Coding for Economists - A Language-Agnostic Guide to Programming for Economists" by [Ljubica Ristovska](https://www.dropbox.com/s/vx53qtwake5wwpg/Coding_For_Econs_20190221.pdf?dl=0&fbclid=IwAR27lyB_75jqd47XAVj5xAufrd5bH9eUvfAl8LimDvUCNimwuEGRTC8JKRM) (Harvard)
+* "Coding for Economists - A Language-Agnostic Guide to Programming for Economists" by [Ljubica Ristovska](https://www.dropbox.com/s/vx53qtwake5wwpg/Coding_For_Econs_20190221.pdf?dl=0&fbclid=IwAR27lyB_75jqd47XAVj5xAufrd5bH9eUvfAl8LimDvUCNimwuEGRTC8JKRM)
 * There are plentiful resources on learning R online, but the R Studio [Cheatsheets](https://rstudio.com/resources/cheatsheets/) can be quite useful
 * "Really using STATA" by [Anil Doshi and Haris Tabakovic](http://www.anilrdoshi.com/uploads/3/2/0/6/32062545/stata_workshop_2013.pdf?fbclid=IwAR381DWz0EN5geI4Qg8YPxjQdnjVpLYJZJZIa2CDSWdoUEGCm3t3lOYw0cw)
