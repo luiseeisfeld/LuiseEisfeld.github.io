@@ -8,12 +8,15 @@ Along with [Rossi Abi Rafeh](https://www.rossiabirafeh.com) and [Kevin Remmy](ht
 
 ## Collection of Links and Resources
 
-### Relevant for any Economist
-  * [Jennifer Doleac](http://jenniferdoleac.com/resources/) has an amazing list of resources for aspiring Economists on her website.
+### Relevant for aspiring PhD Economists
+* List of reads by the [AEA](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources/readings?fbclid=IwAR3dnIsL0SZYc1-Pm4qRyVVYjAPVtrd3MYgKA9X9Dwpj4KVuRfs_9uvrsRU)
+* [Jennifer Doleac](http://jenniferdoleac.com/resources/) has a long list of resources for aspiring Economists (among others)
+* Article by [Esther Duflo](https://promarket.org/2019/10/14/esther-duflo-how-to-find-the-right-questions/): "How to Find the Right Questions"
+* Masayuki Kudamatsu's [Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists?fbclid=IwAR20ZjwcO6DvAWbqhQ5TU5aVpqPFyvH6dwpJPFUnkntXeDxJ9RcMKJ7dznU)
 
 ### Antitrust related
-  * The [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) features a list of resources (data, scholarly & popular publications, etc.).
+  * The [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) features a list of resources (data, scholarly & popular publications, etc.)
 
 ### Data
-  * [Imke Reimers](https://imkereimers.weebly.com/research.html) has a great list of crowd-sourced data resources that can be used for research on the Economics of Digitization on her website.
+  * [Imke Reimers](https://imkereimers.weebly.com/research.html) has a great list of crowd-sourced data resources that can be used for research on the Economics of Digitization on her website
 
