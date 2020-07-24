@@ -10,10 +10,11 @@ Along with [Rossi Abi Rafeh](https://www.rossiabirafeh.com) and [Kevin Remmy](ht
 
 ### Relevant for aspiring PhD Economists
 * List of reads by the [AEA](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources/readings?fbclid=IwAR3dnIsL0SZYc1-Pm4qRyVVYjAPVtrd3MYgKA9X9Dwpj4KVuRfs_9uvrsRU)
-* [Jennifer Doleac](http://jenniferdoleac.com/resources/)'s website features list of resources for aspiring Economists (among others)
+* List of resources for aspiring Economists on [Jennifer Doleac](http://jenniferdoleac.com/resources/)'s website
 * Article by [Esther Duflo](https://promarket.org/2019/10/14/esther-duflo-how-to-find-the-right-questions/): "How to Find the Right Questions"
 * Masayuki Kudamatsu's [Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists?fbclid=IwAR20ZjwcO6DvAWbqhQ5TU5aVpqPFyvH6dwpJPFUnkntXeDxJ9RcMKJ7dznU)
 * Presentation skills: "How to Give an Applied Micro Talk" by [Jesse M. Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
+* Book reviews: [Diane Coyle](http://www.enlightenmenteconomics.com/blog/)'s website
 
 ### Antitrust related
   * [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) for data and publications
