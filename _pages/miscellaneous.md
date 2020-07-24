@@ -14,6 +14,7 @@ Along with [Rossi Abi Rafeh](https://www.rossiabirafeh.com) and [Kevin Remmy](ht
 * Article by [Esther Duflo](https://promarket.org/2019/10/14/esther-duflo-how-to-find-the-right-questions/): "How to Find the Right Questions"
 * Masayuki Kudamatsu's [Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists?fbclid=IwAR20ZjwcO6DvAWbqhQ5TU5aVpqPFyvH6dwpJPFUnkntXeDxJ9RcMKJ7dznU)
 * Presentation skills: "How to Give an Applied Micro Talk" by [Jesse M. Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
+* "Economical Writing" by [Deirdre McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf)
 * Book reviews: [Diane Coyle](http://www.enlightenmenteconomics.com/blog/)'s website
 
 ### Antitrust related
