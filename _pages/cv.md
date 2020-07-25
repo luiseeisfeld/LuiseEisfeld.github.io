@@ -10,18 +10,20 @@ Advisors: Alexandre de Cornière, Daniel Ershov, and Bruno Jullien.
 ## Education
 * European Diploma for Advanced Quantitative Economics (DEEQA), Toulouse School of Economics, 2018
 * M.Sc. Economics, Toulouse School of Economics, 2017
-  * M1 Economics
-  * M2 Economic Theory and Econometrics
+  * Master 1 Economics
+  * Master 2 Economic Theory and Econometrics
 * B.Sc. Economics, University of Mannheim, 2015
 * Visiting Student, Hong Kong University of Science and Technology, Fall 2014
   
+<!---
 ## Academic Work in Progress
 "How do Online Product Rankings Influence Sellers’ Pricing Behavior?" 
-
+-->
+<!--
 In this paper, I study how ranking algorithms affect competition between sellers on a platform. More specifically, I investigate how Online Travel Agents' default ranking of hotels influences hotels' price-setting decisions. _(Paper available upon request.)_
 * Presented at: Applied Microeconomics and IO Student Workshop (TSE, 2018), Competition and Innovation Summer School (Montenegro, 2019) and EARIE (Barcelona, 2019). Scheduled for presentation, but cancelled due to Covid-19: Workshop on Platforms, E-Commerce and Digital Economics (CREST Paris); TADC (London Business School); EBE Summer Meeting (LMU Munich).
-
-<!---
+-->
+<!--
 ### Professional Experience
 * (Internship: United Nations Industrial Development Organization (UNIDO), Vienna, 2016.)
 * Internship: Landesbank Hessen-Th&uuml;ringen, Frankfurt, 2014.
