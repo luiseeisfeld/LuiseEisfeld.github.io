@@ -3,11 +3,11 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-**Current position: Ph.D. Candidate in Economics, Toulouse School of Economics**
+### Current position: Ph.D. Candidate in Economics, Toulouse School of Economics
 
-Advisors: Alexandre de Cornière, Daniel Ershov, Bruno Jullien
+Advisors: Alexandre de Cornière, Daniel Ershov, and Bruno Jullien.
 
-### Education
+## Education
 * European Diploma for Advanced Quantitative Economics (DEEQA), Toulouse School of Economics, 2018
 * M.Sc. Economics, Toulouse School of Economics, 2017
   * M1 Economics
@@ -15,7 +15,7 @@ Advisors: Alexandre de Cornière, Daniel Ershov, Bruno Jullien
 * B.Sc. Economics, University of Mannheim, 2015
 * Visiting Student, Hong Kong University of Science and Technology, Fall 2014
   
-### Academic Work in Progress
+## Academic Work in Progress
 "How do Online Product Rankings Influence Sellers’ Pricing Behavior?" 
 
 In this paper, I study how ranking algorithms affect competition between sellers on a platform. More specifically, I investigate how Online Travel Agents' default ranking of hotels influences hotels' price-setting decisions. _(Paper available upon request.)_
