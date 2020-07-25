@@ -4,6 +4,7 @@ permalink: /cv/
 author_profile: true
 ---
 **Current position: Ph.D. Candidate in Economics, Toulouse School of Economics**
+
 Advisors: Alexandre de Cornière, Daniel Ershov, Bruno Jullien
 
 ### Education
