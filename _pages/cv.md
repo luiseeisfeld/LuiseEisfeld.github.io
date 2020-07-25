@@ -3,8 +3,8 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-**Current position**: Ph.D. Candidate in Economics, Toulouse School of Economics.
-* Advisors: Alexandre de Cornière, Daniel Ershov, Bruno Jullien
+**Current position: Ph.D. Candidate in Economics, Toulouse School of Economics*
+Advisors: Alexandre de Cornière, Daniel Ershov, Bruno Jullien
 
 ### Education
 * European Diploma for Advanced Quantitative Economics (DEEQA), Toulouse School of Economics, 2018
