@@ -4,7 +4,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Link to CV](https://luiseeisfeld.github.io/_pages/CV.pdf)
+[Link to CV](https://luiseeisfeld.github.io/assets/docs/CV.pdf)
 
 ### Current position: Ph.D. Candidate in Economics, Toulouse School of Economics
 
