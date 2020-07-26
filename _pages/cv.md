@@ -3,6 +3,9 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+
+[Link to CV](https://luiseeisfeld.github.io/_pages/CV.pdf)
+
 ### Current position: Ph.D. Candidate in Economics, Toulouse School of Economics
 
 Advisors: Alexandre de Cornière, Daniel Ershov, and Bruno Jullien.
