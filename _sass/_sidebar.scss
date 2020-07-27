@@ -97,8 +97,8 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-top: 10px; // changed from 15px to 10px
-  padding-left: 25px; // changed from 15px to 25px
+  padding-top: 10px; // changed from 15px to 10px - necessary; this way it's perfectly aligned with photo on small screen.
+  padding-left: 25px; // changed from 15px to 25px - again, this way it's perfectly aligned.
   padding-right: 25px;
   line-height: 1;
 
