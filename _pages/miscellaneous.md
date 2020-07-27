@@ -4,7 +4,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 ## Student-run Competition Policy Reading Group
-Along with [Rossi Abi Rafeh](https://www.rossiabirafeh.com) and [Kevin Remmy](https://www.tse-fr.eu/people/kevin-remmy), we've set up a student-run [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). We've moved our discussions online due to the Covid-19 situation. If you'd like to take part, please don't hesitate to reach out.
+[Rossi Abi Rafeh](https://www.rossiabirafeh.com), [Kevin Remmy](https://www.tse-fr.eu/people/kevin-remmy) and I have set up a student-run [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). We've moved our discussions online due to the Covid-19 situation. Please don't hesitate to reach out if you'd like to get involved.
 
 ## Collection of Links and Resources
 
