@@ -6,12 +6,12 @@ author_profile: true
 
 [Link to PDF](https://luiseeisfeld.github.io/assets/docs/CV.pdf)
 
-### Current position: Ph.D. Candidate in Economics, Toulouse School of Economics
+### Currently Ph.D. Candidate in Economics, Toulouse School of Economics
 
 Advisors: Alexandre de Cornière, Daniel Ershov, and Bruno Jullien.
 
 ## Education
-* European Diploma for Advanced Quantitative Economics (DEEQA), Toulouse School of Economics, 2018
+* M.Res. Economics, Toulouse School of Economics, 2018
 * M.Sc. Economics, Toulouse School of Economics, 2017
   * Master 1 Economics
   * Master 2 Economic Theory and Econometrics
