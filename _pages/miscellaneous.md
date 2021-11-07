@@ -4,11 +4,12 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 ## Student-run Competition Policy Reading Group
-[Rossi Abi Rafeh](https://www.rossiabirafeh.com), [Kevin Remmy](https://www.tse-fr.eu/people/kevin-remmy) and I have set up a student-run [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). We've moved our discussions online due to the Covid-19 situation. Please don't hesitate to reach out if you'd like to get involved.
+[Rossi Abi Rafeh](https://www.rossiabirafeh.com), [Kevin Remmy](https://kevinremmy.com) and I have set up a student-run [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). We've moved our discussions online due to the Covid-19 situation. Please don't hesitate to reach out if you'd like to get involved.
 
 ## Collection of Links and Resources
 
-### Relevant for aspiring PhD Economists
+### Relevant for Aspiring PhD Economists
+* Long list of resources on [Tobias Klein](https://www.tobiasklein.ws/ph-d-students)'s website
 * List of reads by the [AEA](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources/readings?fbclid=IwAR3dnIsL0SZYc1-Pm4qRyVVYjAPVtrd3MYgKA9X9Dwpj4KVuRfs_9uvrsRU)
 * List of resources for aspiring Economists on [Jennifer Doleac](http://jenniferdoleac.com/resources/)'s website
 * "How to Find the Right Questions" by [Esther Duflo](https://promarket.org/2019/10/14/esther-duflo-how-to-find-the-right-questions/)
@@ -17,10 +18,10 @@ author_profile: true
 * "Economical Writing" by [Deirdre McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf)
 * (Econ & non-Econ) book reviews by [Diane Coyle](http://www.enlightenmenteconomics.com/blog/)
 
-### Antitrust related
+### Related to Antitrust
   * [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) for data and publications
 
-### Data
+### Finding Data
   * List of "Economics of Digitization"-related data sources on [Imke Reimers](https://imkereimers.weebly.com/research.html)' website
   * "A Guide to Using Corporate Data for Academic Research" by [Andrey Fradkin](https://andreyfradkin.com/posts/2014/02/08/how-to-obtain-proprietary-datasets-for-research-part-1) 
 
