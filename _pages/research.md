@@ -10,7 +10,7 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 _(Paper available upon request.)_
 
-# Work in progress: 
+### Work in progress: 
 
 Acquisitions and Entry in Software Markets
 
