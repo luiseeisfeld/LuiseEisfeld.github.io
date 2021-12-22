@@ -11,9 +11,9 @@ redirect_from:
 ---
 
 
-I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). 
+I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). In Spring of 2022, I am going to visit the [Technology and Policy Research Initiative (TPRI)](https://sites.bu.edu/tpri/) at [Boston University](https://www.bu.edu).
 
-I am interested in **Empirical Industrial Organization** and the **Economics of Digitization**. In my current research, I explore how digitization affects market structure and competition. 
+My fields of research are **Empirical Industrial Organization** and the **Economics of Digitization**, and I am interested in the economic and societal implications of digitization. In my current research I explore links between digitization and competition between firms. 
 
 
 
