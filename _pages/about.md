@@ -17,6 +17,6 @@ As of Spring 2022, I am visiting the [Technology and Policy Research Initiative 
 
 My fields of interest are **Empirical Industrial Organization**, the **Economics of Digitization**, and **Innovation**. 
 
-In my research, I broadly try to understand how digitization affects competition between firms, which is consequential for market outcomes and welfare. I have a particular interest in the functioning of two-sided markets, and in the interlinkages between market structure and innovation in the digital technology industry.
+In my research, I broadly try to understand how digitization affects competition between firms, and ultimately market outcomes and welfare. I have a particular interest in the functioning of two-sided markets, and in the interlinkages between market structure and innovation in the digital technology industry.
 
 
