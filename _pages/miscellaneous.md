@@ -3,8 +3,6 @@ title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: true
 ---
-## Student-run Competition Policy Reading Group
-[Rossi Abi Rafeh](https://www.rossiabirafeh.com), [Kevin Remmy](https://kevinremmy.com) and I used to run a [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). The website hosts a couple of potentially interesting resources.
 
 ## Collection of Links and Resources
 
@@ -20,6 +18,7 @@ author_profile: true
 
 ### Related to Antitrust
   * [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) for data and publications
+  * [Rossi Abi Rafeh](https://www.rossiabirafeh.com), [Kevin Remmy](https://kevinremmy.com) and I used to run a [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). The website hosts a couple of potentially interesting resources.
 
 ### Data
   * List of "Economics of Digitization"-related data sources on [Imke Reimers](https://imkereimers.weebly.com/research.html)' website
