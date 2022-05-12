@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /assets/docs/CV_Eisfeld.pdf
     
   - title: "Research"
     url: /research/ 
