@@ -17,7 +17,7 @@ As of Spring 2022, I am visiting the [Technology and Policy Research Initiative 
 
 Research interests: **Empirical Industrial Organization** &#124; **Economics of Digitization** &#124; **Competition Policy**
 
-I try to understand how digitization affects competition between firms, and ultimately market outcomes and welfare. In my ongoing research, I study market structure in software industries, and the functioning of online marketplaces.
+I try to understand how digitization affects competition between firms, and the consequences for market outcomes and welfare. In my ongoing research, I study market structure in software industries, and the functioning of online marketplaces.
 
 [Curriculum Vitae](https://luiseeisfeld.github.io/assets/docs/CV_Eisfeld.pdf) 
 
