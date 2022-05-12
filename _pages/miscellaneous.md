@@ -14,14 +14,14 @@ author_profile: true
 * [Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists?fbclid=IwAR20ZjwcO6DvAWbqhQ5TU5aVpqPFyvH6dwpJPFUnkntXeDxJ9RcMKJ7dznU) by Masayuki Kudamatsu
 * "How to Give an Applied Micro Talk" by [Jesse M. Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
 * "Economical Writing" by [Deirdre McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf)
-* (Econ & non-Econ) book reviews by [Diane Coyle](http://www.enlightenmenteconomics.com/blog/)
+* The (Econ & non-Econ) book reviews by [Diane Coyle](http://www.enlightenmenteconomics.com/blog/) have been really fruitful for me
 
 ### Related to Antitrust
   * [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) for data and publications
-  * [Rossi Abi Rafeh](https://www.rossiabirafeh.com), [Kevin Remmy](https://kevinremmy.com) and I used to run a [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). The website hosts a couple of potentially interesting resources.
+  * [Rossi Abi Rafeh](https://www.rossiabirafeh.com), [Kevin Remmy](https://kevinremmy.com) and I used to run a [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). The website hosts a couple of potentially interesting resources
 
 ### Data
-  * List of "Economics of Digitization"-related data sources on [Imke Reimers](https://imkereimers.weebly.com/research.html)' website
+  * List of data sources related to the **Economics of Digitization** on [Imke Reimers](https://imkereimers.weebly.com/research.html)' website
 
 ### Intros to Coding
 * "Code and Data for the Social Sciences: A Practitioner's Guide" by [Matthew Gentzkow and Jesse M. Shapiro](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml?fbclid=IwAR381DWz0EN5geI4Qg8YPxjQdnjVpLYJZJZIa2CDSWdoUEGCm3t3lOYw0cw#magicparlabel-1348)
