@@ -17,6 +17,6 @@ As of Spring 2022, I am visiting the [Technology and Policy Research Initiative 
 
 Research interests: **Empirical Industrial Organization** &#124; **Economics of Digitization** &#124; **Competition Policy**
 
-In my research, I try to understand how digitization affects competition between firms, and ultimately market outcomes and welfare. My ongoing projects deal with market structure in software industries, and with the functioning of online marketplaces.
+I try to understand how digitization affects competition between firms, and ultimately market outcomes and welfare. In my ongoing research, I study market structure in software industries, and the functioning of online marketplaces.
 
 
