@@ -19,4 +19,6 @@ Research interests: **Empirical Industrial Organization** &#124; **Economics of 
 
 I try to understand how digitization affects competition between firms, and ultimately market outcomes and welfare. In my ongoing research, I study market structure in software industries, and the functioning of online marketplaces.
 
+[CV](https://luiseeisfeld.github.io/assets/docs/CV_Eisfeld.pdf)
+
 
