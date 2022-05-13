@@ -16,12 +16,12 @@ author_profile: true
 * "Economical Writing" by [Deirdre McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf)
 * (Econ & non-Econ) book reviews by [Diane Coyle](http://www.enlightenmenteconomics.com/blog/)
 
+### Related to the Economics of Digitization
+  * Data sources, course syllabi, and further information can be found [here](https://paper.dropbox.com/doc/Economics-of-Digitization--BhfV8KCrOXBZnrDQb5i6IfeNAg-TfvAiXfojw4AlLnEp2Lig)
+
 ### Related to Antitrust
   * [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) for data and publications
   * [Rossi Abi Rafeh](https://www.rossiabirafeh.com), [Kevin Remmy](https://kevinremmy.com) and I used to run a [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). The website hosts a couple of potentially interesting resources
-
-### Data
-  * List of data sources related to the **Economics of Digitization** on [Imke Reimers](https://imkereimers.weebly.com/research.html)' website
 
 ### Intros to Coding
 * "Code and Data for the Social Sciences: A Practitioner's Guide" by [Matthew Gentzkow and Jesse M. Shapiro](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml?fbclid=IwAR381DWz0EN5geI4Qg8YPxjQdnjVpLYJZJZIa2CDSWdoUEGCm3t3lOYw0cw#magicparlabel-1348)
