@@ -19,7 +19,7 @@ Research interests:
 * Primary: Empirical Industrial Organization; Economics of Digitization
 * Secondary: Applied Microeconomics; Competition Policy
 
-In my research, I try to understand how digitization affects competition between firms, and to measure the consequences for market outcomes and welfare. My most recent papers study entry and market dynamics in software industries, and the functioning of online marketplaces.
+In my research, I try to understand how digitization affects competition between firms, and to estimate the consequences for market outcomes and welfare. My most recent papers study entry and market dynamics in software industries, and the functioning of online marketplaces.
 
 [Curriculum Vitae](https://luiseeisfeld.github.io/assets/docs/CV_Eisfeld.pdf) 
 
