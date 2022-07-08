@@ -13,13 +13,13 @@ redirect_from:
 
 I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). 
 
-As of Spring 2022, I am visiting the [Technology and Policy Research Initiative (TPRI)](https://sites.bu.edu/tpri/) at [Boston University](https://www.bu.edu).
-
 Research interests: 
 * Primary: Empirical Industrial Organization; Economics of Digitization
 * Secondary: Applied Microeconomics; Competition Policy
 
 In my research, I try to understand how digitization affects competition between firms, and to estimate the consequences for market outcomes and welfare. My most recent papers study entry and market dynamics in software industries, and the functioning of online marketplaces.
+
+In Spring 2022, I was visiting the [Technology and Policy Research Initiative (TPRI)](https://sites.bu.edu/tpri/) at [Boston University](https://www.bu.edu).
 
 [Curriculum Vitae](https://luiseeisfeld.github.io/assets/docs/CV_Eisfeld.pdf) 
 
