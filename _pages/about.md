@@ -17,7 +17,7 @@ Research interests:
 * Primary: Empirical Industrial Organization; Economics of Digitization
 * Secondary: Applied Microeconomics; Competition Policy
 
-In my research, I try to understand how digitization affects competition between firms, and to estimate the consequences for market outcomes and welfare. My most recent papers study entry and market dynamics in software industries, and the functioning of online marketplaces.
+In my research, I broadly try to understand how digitization affects competition between firms. For this, I employ novel, web-scraped data and economic models to assess the implications for market outcomes and welfare. My most recent papers study entry and market dynamics in software industries, and the functioning of online marketplaces.
 
 In Spring 2022, I was visiting the [Technology and Policy Research Initiative (TPRI)](https://sites.bu.edu/tpri/) at [Boston University](https://www.bu.edu).
 
