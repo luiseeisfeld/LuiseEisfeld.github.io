@@ -11,10 +11,10 @@ redirect_from:
 ---
 
 
-I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). 
+I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). I will be on the academic Job Market in 2022/2023.
 
 Research interests: 
-* Primary: Empirical Industrial Organization; Economics of Digitization
+* Primary: Economics of Digitization; Empirical Industrial Organization
 * Secondary: Applied Microeconomics; Competition Policy
 
 In my research, I broadly try to understand how digitization affects competition between firms, and ultimately market outcomes and welfare. Methodologically, I use both reduced-form techniques and structural econometric models of firm and consumer behavior. My most recent papers study entry and market dynamics in software industries, and the functioning of online marketplaces. Both papers use novel, web-scraped datasets.
