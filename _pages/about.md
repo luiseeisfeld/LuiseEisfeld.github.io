@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). I will be on the academic Job Market in 2022/2023.
+I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). I am on the Job Market in 2022/2023.
 
 Research interests: 
 * Primary: Economics of Digitization; Empirical Industrial Organization
