@@ -11,7 +11,7 @@ How do acquisitions of young, innovative, venture capital funded firms (startups
     
 _(Draft out soon.)_
 
-_The proposal of this research project was selected the finalist of the 2021 Lear Competition Festival Award._
+_The proposal of this research project was selected as finalist for the 2021 Lear Competition Festival Award._
 
 ### How do Online Product Rankings Influence Sellers’ Pricing Behavior?
 
