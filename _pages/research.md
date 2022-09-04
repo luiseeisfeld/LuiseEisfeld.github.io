@@ -5,17 +5,19 @@ author_profile: true
 ---
 
 
-### Entry and Acquisitions in Software Markets
+### Entry and Acquisitions in Software Markets (Job Market Paper)
 
-How do acquisitions of young, innovative, Venture Capital funded firms (startups) affect the entry of new firms? To answer this question, I collect product-level data on enterprise software and merge it with companies’ histories of acquisitions. I apply a machine learning algorithm to cluster products that are likely substitutable into markets, and provide novel stylized facts on startup acquisitions in software markets. In ongoing work, I develop a structural model of startups’ entry decisions and acquisitions. The goal is to simulate how entry would evolve if antitrust authorities were to prevent the acquisition of software startups.
-
+How do acquisitions of young, innovative, venture capital funded firms (startups) affect entry incentives of new firms? I create a new dataset by merging web-scraped product-level data on enterprise software with data on firms' M&A activities. I find suggestive evidence that the effect of acquisitions on entry may depend on the type of the acquirer, and develops a structural model of startups’ entry decisions. In the model, acquisitions can affect returns to entry (1) via market structure, and (2) by providing an entry-for-buyout incentive to potential entrants. I find evidence of a positive entry-for-buyout incentive and a negative market structure effect. My preliminary evidence suggests that blocking all acquisitions would overall reduce entry by 34 percent.
+    
 _(Draft out soon.)_
+
+_The proposal of this research project was selected the finalist of the 2021 Lear Competition Festival Award._
 
 ### How do Online Product Rankings Influence Sellers’ Pricing Behavior?
 
 Products that are displayed more prominently on e-commerce platforms are more likely to be found and purchased by consumers. A product’s default positioning, however, may depend on the seller’s pricing decision. By conditioning a product’s position on its price, ranking algorithms can thus intensify, or weaken the extent of price competition between sellers. Using scraped data from hotels displayed on Expedia, I find that for a given hotel, a lower price implies a more prominent position in the ranked list of results. I provide a structural framework that allows to simulate how changes in the ranking algorithm influence hotel and platform profits, consumer surplus, and welfare. To perform these counterfactual simulations, I employ my estimates jointly with demand parameters obtained from a sequential search model by Ursu (2018). 
 
-_(Paper available upon request.)_
+_Paper available upon request._
 
 
 
