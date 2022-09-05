@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-### Entry and Acquisitions in Software Markets (Job Market Paper)
+### [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf) (Job Market Paper)
 
 How do acquisitions of young, innovative, venture capital funded firms (startups) affect entry incentives of new firms? I create a new dataset by merging web-scraped product-level data on enterprise software with data on firms' M&A activities. I find suggestive evidence that the effect of acquisitions on entry may depend on the type of the acquirer, and develop a structural model of startups’ entry decisions. In the model, acquisitions can affect returns to entry (1) via market structure, and (2) by providing an entry-for-buyout incentive to potential entrants. I find evidence of a negative market structure effect, and a positive entry-for-buyout effect. My preliminary evidence suggests that blocking all acquisitions would reduce entry.
 
