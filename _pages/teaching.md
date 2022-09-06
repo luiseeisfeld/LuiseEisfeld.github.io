@@ -8,7 +8,7 @@ permalink: /teaching/
 
 [Website](https://sites.google.com/site/competitiontse/)
 
-Slides: Introduction to Competition Policy
+[Slides:](https://luiseeisfeld.github.io/assets/docs/CompPolicy_Intro_2021.pdf) Introduction to Competition Policy
 
 ### Intermediate Econometrics (Master 1)
 *Toulouse School of Economics*, Fall 2020.
