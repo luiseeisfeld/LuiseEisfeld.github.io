@@ -7,8 +7,8 @@ author_profile: true
 
 ### [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf) (Job Market Paper)
 
-How do acquisitions of young, innovative, venture capital funded firms (startups) affect entry incentives of new firms? I create a new dataset by merging web-scraped product-level data on enterprise software with data on firms' M&A activities. I find suggestive evidence that the effect of acquisitions on entry may depend on the type of the acquirer, and develop a structural model of startups’ entry decisions. In the model, acquisitions can affect returns to entry (1) via market structure, and (2) by providing an entry-for-buyout incentive to potential entrants. I find evidence of a negative market structure effect, and a positive entry-for-buyout effect. My preliminary evidence suggests that blocking all acquisitions would reduce entry.
-
+ How do acquisitions of young, innovative, venture capital funded firms (startups) affect entry incentives of new firms? I create a new dataset by merging web-scraped product-level data on enterprise software with data on firms' M&A activities. I find suggestive evidence that the effect of acquisitions on entry may depend on the type of the acquirer. In particular, acquirers may be firms active in the same industry, or industry outsiders, such as financial firms. I develop a structural model of startups’ entry decisions. In the model, acquisitions can affect returns to entry (1) via market structure, and (2) by providing an entry-for-buyout incentive to potential entrants. I find evidence of a positive entry-for-buyout incentive and a negative market structure effect. My preliminary results from counterfactual simulations suggest that if competition authorities were to block all startup acquisitions, entry would fall.
+ 
 _The proposal for this research project was selected as finalist for the 2021 Lear Young Talent Competition Award._
 
 ### How do Online Product Rankings Influence Sellers’ Pricing Behavior?
