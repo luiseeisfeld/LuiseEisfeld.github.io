@@ -9,7 +9,7 @@ author_profile: true
 
 How do acquisitions of young, innovative, venture capital funded firms (startups) affect entry incentives of new firms? I create a new dataset by merging web-scraped product-level data on enterprise software with data on firms' M\&A activities. I compare acquisition patterns of different types of acquirers that reveal these firms' heterogeneous strategies. I build and estimate a dynamic model that endogenizes startups’ entry decisions in the face of the acquisitions. In the model, acquisitions can affect returns to entry (1) via market structure, and (2) by providing an entry-for-buyout incentive to potential entrants. I find that, whereas regularly occurring startup acquisitions can incentivize new firms to enter, certain types of acquisitions conducted by established industry players seem to deter startup entry. Preliminary results from counterfactual simulations suggest that if competition authorities were to block all startup acquisitions, entry would fall. A case-by-case merger analysis might thus be favorable for sustained startup entry.
  
-**Presentations**: EARIE, Jornadas de Economía Industrial, Boston University (Questrom Strategy, Brown Bag), Boston University (Econ, Reading Group), Technology & Policy Research Initivative, Trans-Atlantic Doctoral Conference, Lear Competition Festival.
+**Presentations**: EARIE, Jornadas de Economía Industrial, Boston University (Questrom Strategy Brown Bag), Boston University (Econ Reading Group), Technology & Policy Research Initivative, Trans-Atlantic Doctoral Conference, Lear Competition Festival.
 
 _The proposal for this research project was selected as finalist for the 2021 Lear Young Talent Competition Award._
 
