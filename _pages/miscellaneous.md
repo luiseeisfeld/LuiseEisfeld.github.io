@@ -6,7 +6,7 @@ author_profile: true
 
 ## Collection of Links and Resources
 
-_Please drop me an email if you find a dead link._
+_Please drop me an email in case you find a dead link._
 
 ### Relevant for Aspiring PhD Economists
 * Extensive list of resources on [Tobias Klein](https://www.tobiasklein.ws/ph-d-students)'s website
