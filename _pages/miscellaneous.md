@@ -6,6 +6,8 @@ author_profile: true
 
 ## Collection of Links and Resources
 
+_Please drop me an email if you find a dead link._
+
 ### Relevant for Aspiring PhD Economists
 * Extensive list of resources on [Tobias Klein](https://www.tobiasklein.ws/ph-d-students)'s website
 * List of reads by the [AEA](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources/readings?fbclid=IwAR3dnIsL0SZYc1-Pm4qRyVVYjAPVtrd3MYgKA9X9Dwpj4KVuRfs_9uvrsRU)
@@ -28,5 +30,3 @@ author_profile: true
 ### Intros to Coding
 * "Code and Data for the Social Sciences: A Practitioner's Guide" by [Matthew Gentzkow and Jesse M. Shapiro](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml?fbclid=IwAR381DWz0EN5geI4Qg8YPxjQdnjVpLYJZJZIa2CDSWdoUEGCm3t3lOYw0cw#magicparlabel-1348)
 * "Coding for Economists - A Language-Agnostic Guide to Programming for Economists" by [Ljubica Ristovska](https://www.dropbox.com/s/vx53qtwake5wwpg/Coding_For_Econs_20190221.pdf?dl=0&fbclid=IwAR27lyB_75jqd47XAVj5xAufrd5bH9eUvfAl8LimDvUCNimwuEGRTC8JKRM)
-
-_Please drop me an email if you find a dead link._
