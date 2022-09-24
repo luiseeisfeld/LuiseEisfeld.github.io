@@ -17,7 +17,7 @@ I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld
 * Primary: Empirical Industrial Organization; Economics of Digitization
 * Secondary: Applied Microeconomics; Competition Policy
 
-In my research, I broad try to understand how digitization affects competition between firms, and ultimately market outcomes and welfare. 
+In my research, I broadly try to understand how digitization affects competition between firms, and ultimately market outcomes and welfare. 
 
 Methodologically, I use both reduced-form techniques and structural econometric models of firm and consumer behavior. My most recent [papers](https://luiseeisfeld.github.io/research/) study entry and market dynamics in software industries, and the functioning of online marketplaces. Both papers use novel, web-scraped datasets.
 
