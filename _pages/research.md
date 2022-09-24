@@ -11,7 +11,7 @@ How do acquisitions of young, innovative, venture capital funded firms (startups
  
 **Presentations**: EARIE, Jornadas de Economía Industrial, Boston University (Questrom Strategy Brown Bag), Boston University (Econ Reading Group), Technology & Policy Research Initivative, Trans-Atlantic Doctoral Conference, Lear Competition Festival.
 
-_The proposal for this research project was selected as finalist for the 2021 Lear Young Talent Competition Award._
+_The proposal for this research project was selected finalist of the 2021 Lear Young Talent Competition Award._
 
 ### How do Online Product Rankings Influence Sellers’ Pricing Behavior?
 
