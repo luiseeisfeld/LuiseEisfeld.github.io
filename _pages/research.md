@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-### [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf) (Job Market Paper)
+## [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf) (Job Market Paper)
 
 How do acquisitions of young, innovative, venture capital funded firms (startups) affect entry incentives of new firms? I create a new dataset by merging web-scraped product-level data on enterprise software with data on firms' entry and acquisition decisions. The data produce new facts on software acquisitions, showing that acquirers are heterogeneous and follow different strategies. I build and estimate a dynamic model that endogenizes startups’ entry decisions in the face of the acquisitions. In the model, acquisitions can affect returns to entry (1) via market structure, and (2) by providing an entry-for-buyout incentive to potential entrants. I find that, whereas overall startup acquisitions can incentivize new firms to enter, certain types of acquisitions -- those conducted by established industry players and targeting more mature startups -- seem to deter startup entry. Preliminary results from counterfactual simulations suggest that if competition authorities were to block all startup acquisitions, entry would fall. A case-by-case merger analysis may thus be favorable for sustained startup entry.
  
@@ -13,7 +13,7 @@ How do acquisitions of young, innovative, venture capital funded firms (startups
 
 _The proposal for this research project was selected **finalist** of the 2021 **Lear Young Talent Competition Award**._
 
-### How do Online Product Rankings Influence Sellers’ Pricing Behavior?
+## How do Online Product Rankings Influence Sellers’ Pricing Behavior?
 
 Products that are displayed more prominently on e-commerce platforms are more likely to be found and purchased by consumers. A product’s default positioning, however, may depend on the seller’s pricing decision. By conditioning a product’s position on its price, ranking algorithms can thus intensify, or weaken the extent of price competition between sellers. Using scraped data from hotels displayed on Expedia, I find that for a given hotel, a lower price implies a more prominent position in the ranked list of results. I provide a structural framework that allows to simulate how changes in the ranking algorithm influence hotel and platform profits, consumer surplus, and welfare. To perform these counterfactual simulations, I employ my estimates jointly with demand parameters obtained from a sequential search model by Ursu (2018). 
 
@@ -21,5 +21,10 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 _Paper available upon request._
 
+## Work in Progress
+
+**Pass-through of Prices on E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
+
+**First Mover Advantage and Imitation in Product Innovation** (with [Vatsala Shreeti](https://www.vatsalashreeti.com))
 
 
