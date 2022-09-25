@@ -20,7 +20,7 @@ _Please drop me an email in case you find a dead link._
 ### Related to the Economics of Digitization
   * Data sources, course syllabi, and further information can be found [here](https://paper.dropbox.com/doc/Economics-of-Digitization--BhfV8KCrOXBZnrDQb5i6IfeNAg-TfvAiXfojw4AlLnEp2Lig)
 
-### Related to Empirical Industrial Organization
+### Useful for Empirical Industrial Organization and Structural Modelling
   * Computational resources & notes on [Chuqing Jin](https://chuqingjin.github.io/resources/)'s website 
 
 ### Related to Antitrust
