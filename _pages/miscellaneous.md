@@ -31,6 +31,4 @@ _Please drop me an email in case you find a dead link._
 * "Code and Data for the Social Sciences: A Practitioner's Guide" by [Matthew Gentzkow and Jesse M. Shapiro](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml?fbclid=IwAR381DWz0EN5geI4Qg8YPxjQdnjVpLYJZJZIa2CDSWdoUEGCm3t3lOYw0cw#magicparlabel-1348)
 * "Coding for Economists - A Language-Agnostic Guide to Programming for Economists" by [Ljubica Ristovska](https://www.dropbox.com/s/vx53qtwake5wwpg/Coding_For_Econs_20190221.pdf?dl=0&fbclid=IwAR27lyB_75jqd47XAVj5xAufrd5bH9eUvfAl8LimDvUCNimwuEGRTC8JKRM)
 
-## Photographs
 
-![](boston_4seasons.jpg)
