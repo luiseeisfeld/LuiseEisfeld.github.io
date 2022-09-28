@@ -23,6 +23,3 @@ Methodologically, I use both reduced-form techniques and structural econometric 
 
 In Spring 2022, I was visiting the [Technology and Policy Research Initiative (TPRI)](https://sites.bu.edu/tpri/) at [Boston University](https://www.bu.edu).
 
-[Curriculum Vitae](https://luiseeisfeld.github.io/assets/docs/CV_Eisfeld_TSE.pdf) 
-
-
