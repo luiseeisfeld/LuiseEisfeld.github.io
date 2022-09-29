@@ -19,8 +19,6 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 **Presentations**: EARIE, LED Young Economist Seminar (UC Louvain), Competition and Innovation Summer School, TSE.
 
-_Paper available upon request._
-
 ## Work in Progress
 
 **Pass-through of Prices on E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
