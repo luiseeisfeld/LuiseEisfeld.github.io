@@ -22,8 +22,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0.7em 0 0.3em;  // changed from 2em to 1.3em. Now changed to 1em. Now changed to 0.5em. Now to 0.4em.
-    // first: above; second: indent; third: space below (I think).
+  margin: 0.7em 0 0.3em;  // changed from 2em to 0.4em.
+    // first: above; second: indent; third: space below.
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
@@ -32,6 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   margin-top: 0;
   font-size: $type-size-3;
+  margin-bottom: 0.7;
 }
 
 h2 {
