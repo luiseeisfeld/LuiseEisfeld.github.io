@@ -165,13 +165,14 @@ hr {
 /* lists */
 
 ul {
-   margin-block-start: 0em; // added this to make bullet list have less space above (default is 1em)
+   margin-block-start: 0.1em; // added this to make bullet list have less space above (default is 1em)
    margin-block-end: 1.3em; // increased this to have more space below
 }
 
 ul li,
 ol li {
-  margin-bottom: 0.5em;
+  margin-top: 0.2;
+  margin-bottom: 0.3em; // what works: margin-top: 0, margin-bottom: 0.5
 }
 
 li ul,
