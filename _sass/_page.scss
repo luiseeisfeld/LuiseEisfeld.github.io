@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em; // reducing this makes the gap between text and header on a page very small
+  margin-top: 2.5em; // reducing this makes the gap between text and header on a page very small. Increased from 2 to 2.5.
   padding-left: 1.8em; // original: 1
   padding-right: 1.8em; // set to same value
   animation: intro 0.3s both;
