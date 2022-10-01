@@ -63,7 +63,7 @@
 
   /* paragraph indents */
   p {
-    margin: 0.2 0 0.5; // changed from 0 0 $indent-var to 0.2 0 0.5
+    margin: 0 0 0.5; // changed from 0 0 $indent-var to 0.2 0 0.5
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
