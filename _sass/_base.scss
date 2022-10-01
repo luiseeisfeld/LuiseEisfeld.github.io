@@ -22,7 +22,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0.7em 0 0.3em;  // changed from 2em to 0.4em.
+  margin: 1em 0 0.3em;  // changed from 2em to 0.4em.
     // first: above; second: indent; third: space below.
   line-height: 1.2;
   font-family: $header-font-family;
