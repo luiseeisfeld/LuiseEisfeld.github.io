@@ -7,7 +7,7 @@ author_profile: true
 
 ## [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf) (Job Market Paper)
 
-_**Winner**: Schumpeter Prize for the Best Student Paper on Antitrust (ITIF), 2022. **Finalist**: Lear Young Talent Competition Award, 2021._
+_**Winner**: Schumpeter Prize for the Best Student Paper on Antitrust, 2022. **Finalist**: Lear Young Talent Competition Award, 2021._
 
 How do acquisitions of young, innovative, venture capital funded firms (startups) affect entry incentives of new firms? I create a new dataset by merging web-scraped product-level data on enterprise software with data on firms' entry and acquisition decisions. The data produce new facts on software acquisitions, highlighting the heterogeneous motives of acquirers. I build and estimate a dynamic model that endogenizes startups’ entry decisions in the face of these acquisitions. In the model, acquisitions can affect returns to entry (1) via market structure, and (2) by providing an entry-for-buyout incentive to potential entrants. I find that, whereas overall startup acquisitions can incentivize new firms to enter, certain types of acquisitions -- those conducted by established industry players and targeting more mature startups -- tend to be followed by less entry. Preliminary results from counterfactual simulations suggest that if competition authorities were to block all startup acquisitions, entry would fall in some markets. A case-by-case merger analysis may thus be favorable for sustained startup entry.
  
