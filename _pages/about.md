@@ -15,6 +15,8 @@ I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld
 
 **I am on the Job Market in 2022/2023 and available for interviews.**
 
+Click [here for my **Job Market Paper**](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf).
+
 **Research interests:**
 * Primary: Empirical Industrial Organization; Economics of Digitization
 * Secondary: Applied Microeconomics; Competition Policy
