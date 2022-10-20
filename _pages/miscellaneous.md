@@ -20,7 +20,7 @@ author_profile: true
 
 ### Useful for Empirical Industrial Organization and Structural Modelling
   * Computational resources & notes on [Chuqing Jin](https://chuqingjin.github.io/resources/)'s website
-  * "'Structural vs. Reduced Form' - Language, Confusion, and Models in Empirical Economics" by [Phil Haile](http://www.econ.yale.edu/~pah29/intro.pdf)
+  * "Structural vs. Reduced Form - Language, Confusion, and Models in Empirical Economics" by [Phil Haile](http://www.econ.yale.edu/~pah29/intro.pdf)
 
 ### Related to Antitrust
   * [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) for data and publications
