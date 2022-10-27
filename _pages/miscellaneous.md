@@ -20,7 +20,6 @@ author_profile: true
 ### General Resources for Aspiring PhD Economists
 * Extensive list of resources on [Tobias Klein](https://www.tobiasklein.ws/ph-d-students)'s website
 * List of reads by the [AEA](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources/readings?fbclid=IwAR3dnIsL0SZYc1-Pm4qRyVVYjAPVtrd3MYgKA9X9Dwpj4KVuRfs_9uvrsRU)
-* List of resources for aspiring Economists on [Jennifer Doleac](http://jenniferdoleac.com/resources/)'s website
 * Tips 4 Economists by [Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/tips4economists?fbclid=IwAR20ZjwcO6DvAWbqhQ5TU5aVpqPFyvH6dwpJPFUnkntXeDxJ9RcMKJ7dznU)
 * "How to Give an Applied Micro Talk" by [Jesse M. Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
 * "Economical Writing" by [Deirdre McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf)
