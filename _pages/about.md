@@ -21,7 +21,7 @@ Click [here for my **Job Market Paper**](https://luiseeisfeld.github.io/assets/d
 * Primary: Empirical Industrial Organization; Economics of Digitization
 * Secondary: Applied Microeconomics; Competition Policy
 
-In my research, I try to understand competition and innovation incentives in digital industries, as well as the implications of digitization for market outcomes and welfare. 
+In my research, I try to understand competition and innovation incentives in digital industries, and more broadly the implications of digitization for market outcomes and welfare. 
 
 Methodologically, I use both reduced form analysis and structural econometric models of firm and consumer behavior. My most recent [papers](https://luiseeisfeld.github.io/research/) study entry and market dynamics in software industries, and the functioning of online marketplaces. Both papers use unique, web-scraped data.
 
