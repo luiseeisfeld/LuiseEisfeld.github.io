@@ -11,7 +11,7 @@ _**Schumpeter Prize**, Best Student Paper on Antitrust ([ITIF](https://itif.org/
 
 How do acquisitions of young, innovative, venture capital-funded firms (startups) affect firms' incentives to enter a market? I create a product-level dataset of enterprise software, and use textual analysis to identify competing firms. Motivated by new stylized facts on startup acquisitions in software, I build and estimate a dynamic model of startups’ entry decisions in the face of these acquisitions. In the model, acquisitions can affect returns to entry (1) by affecting market structure, and (2) by providing an entry-for-buyout incentive to potential entrants. Using the parameter estimates, I simulate how startup entry would evolve over time if merger control was tightened. The simulations reveal that, if all startup acquisitions were blocked, entry would decline on the order of 8-20% in some markets. In contrast, I find suggestive evidence that blocking mergers between established industry players and more mature startups might increase entry. These findings indicate that case-by-case merger review can best foster sustained startup entry.
     
-**Presentations**: EARIE, Jornadas de Economía Industrial, Boston University (Questrom Strategy), Boston University (Econ), Technology & Policy Research Initivative, Trans-Atlantic Doctoral Conference, Lear Competition Festival, TSE.
+**Presentations**: EARIE, Boston University (Questrom Strategy), Boston University (Econ), Technology & Policy Research Initivative, Trans-Atlantic Doctoral Conference, Jornadas de Economía Industrial, APPAM, Lear Competition Festival, TSE.
 
 ## [How do Online Product Rankings Influence Sellers’ Pricing Behavior?](https://luiseeisfeld.github.io/assets/docs/HotelRankings_Eisfeld_TSE.pdf)
 
