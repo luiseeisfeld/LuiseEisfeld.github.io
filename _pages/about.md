@@ -13,8 +13,6 @@ redirect_from:
 
 I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). 
 
-Click [here for my **Job Market Paper**](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf), and [here for my **CV**](https://luiseeisfeld.github.io/assets/docs/CV_Eisfeld_TSE.pdf).
-
 **Research interests:**
 * Primary: Empirical Industrial Organization; Economics of Digitization
 * Secondary: Applied Microeconomics; Competition Policy
