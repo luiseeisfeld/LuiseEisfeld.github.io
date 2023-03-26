@@ -21,5 +21,3 @@ In my research, I study competition and innovation in the context of digital mar
 
 Methodologically, I use both reduced-form analysis and structural econometric models of firm and consumer behavior. My most recent [papers](https://luiseeisfeld.github.io/research/) study entry and market dynamics in software industries, and the functioning of online marketplaces. Both papers use unique, web-scraped data.
 
-In the Spring of 2022, I was visiting the [Technology and Policy Research Initiative (TPRI)](https://sites.bu.edu/tpri/) at [Boston University](https://www.bu.edu).
-
