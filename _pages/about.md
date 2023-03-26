@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). In August 2023, I am going to start a position as Assistant Professor in Finance at HEC Lausanne.
+I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). In August 2023, I am going to start a position as Assistant Professor at the [Department of Finance](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi) at HEC Lausanne.
 
 **Research interests:**
 * Primary: Empirical Industrial Organization; Economics of Digitization
