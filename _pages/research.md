@@ -23,6 +23,3 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 **Pass-through of Prices on E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
 
-**First Mover Advantage and Imitation in Product Innovation** (with [Vatsala Shreeti](https://www.vatsalashreeti.com))
-
-
