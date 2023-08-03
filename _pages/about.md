@@ -11,10 +11,10 @@ redirect_from:
 ---
 
 
-I am a [Ph.D. Candidate in Economics](https://www.tse-fr.eu/people/luise-eisfeld) at the [Toulouse School of Economics](https://www.tse-fr.eu). In August 2023, I am going to start a position as Assistant Professor at the [Department of Finance](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi) at HEC Lausanne.
+I am Assistant Professor in Finance at [HEC Lausanne](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi).
 
 **Research interests:**
-* Primary: Empirical Industrial Organization; Economics of Digitization
+* Primary: Empirical Industrial Organization; Corporate Finance; Economics of Digitization
 * Secondary: Applied Microeconomics; Competition Policy
 
 In my research, I study competition and innovation in the context of digital markets. More broadly, I am interested in the implications of digitization for market outcomes and welfare. 
