@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Luise Eisfeld"
 title_separator          : "-"
 name                     : &name "Luise Eisfeld"
-description              : &description "Ph.D. Candidate at Toulouse School of Economics"
+description              : &description "Assistant Professor in Finance"
 url                      : https://luiseeisfeld.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luiseeisfeld/LuiseEisfeld.github.io"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Luise Eisfeld"
   avatar           : "picture_luise_color_square_small.jpg"
-  bio              : "Ph.D. Candidate in Economics" # put <br> for a line break
-  location         : "Toulouse School of Economics"
+  bio              : "Assistant Professor in Finance" # put <br> for a line break
+  location         : "University of Lausanne"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "luise.eisfeld@gmail.com"
+  email            : "luise.eisfeld@unil.ch"
   researchgate     :  
   uri              :
   bitbucket        :
