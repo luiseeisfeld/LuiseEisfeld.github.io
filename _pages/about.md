@@ -14,8 +14,8 @@ redirect_from:
 I am an Assistant Professor in Finance at the [Faculty of Business and Economics](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi) of the University of Lausanne.
 
 **Research interests:**
-* Primary: Corporate Finance; Empirical Industrial Organization
-* Secondary: Economics of Digitization; Competition Policy
+* Primary: Entrepreneurial Finance; Empirical Industrial Organization
+* Secondary: Economics of Digitization; Innovation; Competition Policy
 
 In my research, I study competition and innovation in the context of digital markets. More broadly, I am interested in the implications of digitization for market outcomes and welfare. 
 
