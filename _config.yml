@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Luise Eisfeld"
   avatar           : "picture_luise_color_square_small.jpg"
-  bio              : "Assistant Professor in Finance" # put <br> for a line break
+  bio              : "Assistant Professor of Finance" # put <br> for a line break
   location         : "HEC Lausanne"
   employer         :
   pubmed           : 
