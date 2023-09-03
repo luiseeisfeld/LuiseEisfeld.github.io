@@ -15,7 +15,7 @@ author_profile: true
 
 ### Related to Antitrust
   * [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) for data and publications
-  * [Rossi Abi Rafeh](https://www.rossiabirafeh.com), [Kevin Remmy](https://kevinremmy.com) and I used to run a [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). The website hosts a couple of potentially interesting resources
+  * Rossi Abi Rafeh, [Kevin Remmy](https://kevinremmy.com) and I used to run a [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). The website hosts a couple of potentially interesting resources
 
 ### General Resources for Aspiring PhD Economists
 * Extensive list of resources on [Tobias Klein](https://www.tobiasklein.ws/ph-d-students)'s website
