@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi). I have completed my Ph.D. in Economics at the [Toulouse School of Economics](https://www.tse-fr.eu) in 2023.
+I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi). Prior to that, I obtained a Ph.D. in Economics at the [Toulouse School of Economics](https://www.tse-fr.eu) in 2023.
 
 **Research interests:**
 * Primary: Entrepreneurial Finance; Empirical Industrial Organization
