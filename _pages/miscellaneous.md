@@ -19,7 +19,7 @@ author_profile: true
 
 ### General Resources for Aspiring Researchers
 * Extensive list of resources on [Tobias Klein](https://www.tobiasklein.ws/ph-d-students)'s website
-* A more concise list of "[PhD Guidance: How to do research](https://docs.google.com/document/d/1JmYa1-3qcvuePQ6bEDDEYI4U0carp_82jVNQ7oezIRU/edit#heading=h.32cukrop7ts5)" by [Garrett Johnson](https://www.garjoh.com)
+* A more concise list of "[PhD Guidance: How to do research](https://docs.google.com/document/d/1JmYa1-3qcvuePQ6bEDDEYI4U0carp_82jVNQ7oezIRU/edit#heading=h.32cukrop7ts5)" by [Garrett A. Johnson](https://www.garjoh.com)
 * List of reads by the [AEA](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources/readings?fbclid=IwAR3dnIsL0SZYc1-Pm4qRyVVYjAPVtrd3MYgKA9X9Dwpj4KVuRfs_9uvrsRU)
 * Tips 4 Economists by [Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/tips4economists?fbclid=IwAR20ZjwcO6DvAWbqhQ5TU5aVpqPFyvH6dwpJPFUnkntXeDxJ9RcMKJ7dznU)
 * "How to Give an Applied Micro Talk" by [Jesse M. Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
