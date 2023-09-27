@@ -6,18 +6,18 @@ author_profile: true
 
 ## Collection of Links and Resources
 
-### Useful for Empirical Industrial Organization and Structural Modelling
+### Structural Modelling
   * Computational resources & notes on [Chuqing Jin](https://chuqingjin.github.io/resources/)'s website
   * "Structural vs. Reduced Form - Language, Confusion, and Models in Empirical Economics" by [Phil Haile](https://www.dropbox.com/s/s6spj8wiruer4to/intro.pdf?dl=0)
 
-### Related to the Economics of Digitization
+### Economics of Digitization
   * Data sources, course syllabi, and more collected by the [NBER Digitization Project](https://paper.dropbox.com/doc/Economics-of-Digitization--BhfV8KCrOXBZnrDQb5i6IfeNAg-TfvAiXfojw4AlLnEp2Lig)
 
-### Related to Antitrust
+### Antitrust
   * [Thurman Arnold Project at Yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale) for data and publications
   * Rossi Abi Rafeh, [Kevin Remmy](https://kevinremmy.com) and I used to run a [Competition Policy Reading Group](https://sites.google.com/view/wccwtse/home). The website hosts a couple of potentially interesting resources
 
-### General Resources for Aspiring PhD Economists
+### General Resources for Aspiring Researchers
 * Extensive list of resources on [Tobias Klein](https://www.tobiasklein.ws/ph-d-students)'s website
 * A more concise list of "[PhD Guidance: How to do research](https://docs.google.com/document/d/1JmYa1-3qcvuePQ6bEDDEYI4U0carp_82jVNQ7oezIRU/edit#heading=h.32cukrop7ts5)" by [Garrett Johnson](https://www.garjoh.com)
 * List of reads by the [AEA](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources/readings?fbclid=IwAR3dnIsL0SZYc1-Pm4qRyVVYjAPVtrd3MYgKA9X9Dwpj4KVuRfs_9uvrsRU)
