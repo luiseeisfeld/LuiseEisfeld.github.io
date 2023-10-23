@@ -1,7 +1,9 @@
 ---
-title: "Teaching Assistantships"
+title: "Teaching"
 permalink: /teaching/
 ---
+
+## Teaching Assistantship
 
 ### Competition Policy Workshop (Master)
 Coordinator & Teaching Assistant.
@@ -11,11 +13,7 @@ Coordinator & Teaching Assistant.
 
 ### Intermediate Econometrics (Master)
 Teaching Assistant.
-*Toulouse School of Economics*, Fall 2020.
-
-### Intermediate Econometrics (Master)
-Teaching Assistant.
-*Toulouse School of Economics*, Fall 2019.
+*Toulouse School of Economics*, Fall 2020 and 2019.
 
 ### Applied Econometrics (Master)
 Teaching Assistant.
