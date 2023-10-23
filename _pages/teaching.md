@@ -3,19 +3,19 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## Teaching Assistantship
+### Teaching Assistantships
 
-### Competition Policy Workshop (Master)
+#### Competition Policy Workshop (Master)
 Coordinator & Teaching Assistant.
 *Toulouse School of Economics*, Spring 2020 - Fall 2021.
 * [Website](https://sites.google.com/site/competitiontse/)
 * [Lecture slides:](https://luiseeisfeld.github.io/assets/docs/CompPolicy_Intro_2021.pdf) Introduction to Competition Policy
 
-### Intermediate Econometrics (Master)
+#### Intermediate Econometrics (Master)
 Teaching Assistant.
 *Toulouse School of Economics*, Fall 2020 and 2019.
 
-### Applied Econometrics (Master)
+#### Applied Econometrics (Master)
 Teaching Assistant.
 *Toulouse School of Economics*, Spring 2019.
 
