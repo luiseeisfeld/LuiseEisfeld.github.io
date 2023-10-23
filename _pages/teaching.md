@@ -3,6 +3,14 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+### Teaching (University of Lausanne)
+
+#### Principles of Finance (Bachelor)
+Co-taught with [Michael Rockinger](https://people.unil.ch/michaelrockinger/bienvenue/), spring 2024.
+
+#### Valuation (Master)
+Spring 2024.
+
 ### Teaching Assistantships (Toulouse School of Economics)
 
 #### Competition Policy Workshop (Master)
