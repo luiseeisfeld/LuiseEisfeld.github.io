@@ -17,9 +17,9 @@ I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub
 * Primary: Entrepreneurial Finance; Industrial Organization
 * Secondary: Economics of Digitization; Competition Policy; Innovation
 
-In my research, I study competition and innovation in the context of digital markets. More broadly, I am interested in the implications of digitization for market outcomes and welfare. 
+In my research, I study competition and innovation in the context of digital markets. More broadly, I am interested in the implications of digitization for market outcomes and economic welfare. 
 
-Methodologically, I use both reduced-form analysis and structural econometric models of firm and consumer behavior. My most recent [papers](https://luiseeisfeld.github.io/research/) study entry and market dynamics in software industries, and the functioning of online marketplaces. Both papers use novel datasets.
+I am an empirical researcher, and I use both reduced-form analysis and structural econometric models of firm and consumer behavior. My most recent [papers](https://luiseeisfeld.github.io/research/) study entry and market dynamics in software industries, and the functioning of online marketplaces. Both papers use novel datasets.
 
-I obtained my Ph.D. in Economics at the [Toulouse School of Economics](https://www.tse-fr.eu) in 2023. In 2022, I spent six months at the [Technology and Policy Research Initiative](https://sites.bu.edu/tpri/) at Boston University. 
+I obtained my Ph.D. in Economics from the [Toulouse School of Economics](https://www.tse-fr.eu) in 2023. In 2022, I spent six months at the [Technology and Policy Research Initiative](https://sites.bu.edu/tpri/) at Boston University. 
 
