@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi), the Faculty of Business and Economics of the University of Lausanne. 
+I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi) (the Faculty of Business and Economics of the University of Lausanne). 
 
 **Research interests:**
 * Primary: Entrepreneurial Finance; Industrial Organization
