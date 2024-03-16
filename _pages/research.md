@@ -11,7 +11,7 @@ _**Best Paper Award**, Doctoral Workshop on the Economics of Digitization, 2023.
 
 How do acquisitions of young, innovative, venture capital-funded firms (startups) affect firms' incentives to enter a market? I create a product-level dataset of enterprise software, and use textual analysis to identify competing firms. Motivated by new stylized facts on startup acquisitions in software, I build and estimate a dynamic model of startups’ entry decisions in the face of these acquisitions. In the model, acquisitions can affect returns to entry (1) by affecting market structure, and (2) by providing an entry-for-buyout incentive to potential entrants. Using the parameter estimates, I simulate how startup entry would evolve over time if merger control was tightened. The simulations reveal that, if all startup acquisitions were blocked, entry would decline on the order of 8-20% in some markets. In contrast, I find suggestive evidence that blocking mergers between established industry players and more mature startups might increase entry. These findings indicate that case-by-case merger review can best foster sustained startup entry.
     
-**Selected Presentations**: CEPR-JIE Summer School (Cambridge, UK), HEC Lausanne, HEC Montreal, McGill, ifo Institute, DICE (Düsseldorf), Royal Holloway (London), Sciences Po (Paris), HEC Paris, CREST (Paris), KU Leuven (MSI), Boston University (Questrom Strategy Brown Bag & IO Reading Group), Technology & Policy Research Initivative (TPRI), ZEW (Mannheim), IIOC (Washington D.C.), EARIE (Vienna), APPAM (Washington D.C.).
+**Selected Presentations**: CEPR-JIE Summer School (Cambridge, UK), HEC Lausanne, HEC Montreal, McGill, ifo Institute, DICE (Düsseldorf), Royal Holloway (London), Sciences Po (Paris), HEC Paris, CREST (Paris), KU Leuven (MSI), Boston University (Questrom Strategy Brown Bag & IO Reading Group), Technology & Policy Research Initivative (TPRI), ZEW (Mannheim), IIOC (Washington D.C.), EARIE (Vienna), APPAM (Washington D.C.), MFA (Chicago).
 
 ## [How do Online Product Rankings Influence Sellers’ Pricing Behavior?](https://luiseeisfeld.github.io/assets/docs/HotelRankings_Eisfeld_TSE.pdf)
 
@@ -21,5 +21,5 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 ## Work in Progress
 
-**Pass-through of Prices on E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
+**Dual Mode E-commerce Platforms and Pass-Through** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
 
