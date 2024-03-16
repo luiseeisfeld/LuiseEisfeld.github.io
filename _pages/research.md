@@ -17,7 +17,7 @@ How do acquisitions of young, innovative, venture capital-funded firms (startups
 
 Products that are displayed more prominently on e-commerce platforms are more likely to be found and purchased by consumers. The algorithms ranking these products, however, may condition a product's position in a listings page on its price. Using web-scraped data from hotels displayed on Expedia and an instrumental variable identification strategy, I find that the ranking algorithm tends to display hotels at _less_ favorable positions at times at which they are priced _higher_. I provide a framework that employs these estimates jointly with demand parameters obtained from a sequential search model. I simulate a counterfactual scenario, and reveal that Expedia's ranking algorithm tends to intensify price competition between sellers compared to a random ranking. This increases consumer welfare, but reduces seller profits. My finding has consequences for two-sided platforms' optimal design of ranking algorithms: in order to foster adoption, platforms should carefully trade off benefits arising to the two sides, and consider equilibrium effects.
 
-**Presentations**: EARIE, LED Young Economist Seminar (UC Louvain), Competition and Innovation Summer School, TSE.
+**Presentations**: EARIE, LED Young Economist Seminar (UC Louvain), Competition and Innovation Summer School, HEC Lausanne, TSE.
 
 ## Work in Progress
 
