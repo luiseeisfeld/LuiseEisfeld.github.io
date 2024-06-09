@@ -8,7 +8,6 @@ author_profile: true
 
 ### Structural Modelling
   * Computational resources & notes on [Chuqing Jin](https://chuqingjin.github.io/resources/)'s website
-  * "Structural vs. Reduced Form - Language, Confusion, and Models in Empirical Economics" by [Phil Haile](https://www.dropbox.com/s/s6spj8wiruer4to/intro.pdf?dl=0)
 
 ### Economics of Digitization
   * Data sources, course syllabi, and more collected by the [NBER Digitization Project](https://paper.dropbox.com/doc/Economics-of-Digitization--BhfV8KCrOXBZnrDQb5i6IfeNAg-TfvAiXfojw4AlLnEp2Lig)
