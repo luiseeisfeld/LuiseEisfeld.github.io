@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi) (the Faculty of Business and Economics of the University of Lausanne) and Faculty Member of the [Swiss Finance Institute](https://www.sfi.ch/en/faculty). I am also an affiliated member of Roxana Mihet's [AI & Digital Finance Lab](https://sites.google.com/a/nyu.edu/rmihet/ai-finance-lab) at HEC Lausanne.
+I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi) (the Faculty of Business and Economics of the University of Lausanne) and Faculty Member of the [Swiss Finance Institute](https://www.sfi.ch/en/faculty). I am also an affiliated member of the [AI & Digital Finance Lab](https://sites.google.com/a/nyu.edu/rmihet/ai-finance-lab) at HEC Lausanne.
 
 **Research interests:**
 * Primary: Entrepreneurial Finance; Industrial Organization
