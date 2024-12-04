@@ -15,7 +15,7 @@ I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub
 
 **Research interests:**
 * Primary: Entrepreneurial Finance; Industrial Organization
-* Secondary: Economics of Digitization; Competition Policy; Innovation
+* Secondary: Economics of Digitization & Innovation; Competition Policy
 
 In my research, I study competition and innovation in the context of digital markets. More broadly, I am interested in the implications of digitization for market outcomes and economic welfare. 
 
