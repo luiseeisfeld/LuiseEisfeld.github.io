@@ -23,6 +23,6 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 **Who Bears the Brunt of Cost Shocks? Analyzing Pass-Through on Dual-Mode E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
 
-**Presentations**: EARIE (Amsterdam).
+**Presentations**: Stockholm School of Economics, MaCCI (Mannheim), EARIE (Amsterdam), Xiamen University.
 
 
