@@ -5,7 +5,9 @@ author_profile: true
 ---
 
 
-## [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf) NEW DRAFT COMING SOON.
+## [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf) 
+
+NEW DRAFT COMING SOON
 
 _**Best Paper Award**, Doctoral Workshop on the Economics of Digitization, 2023.  **Schumpeter Prize**, Best Student Paper on Antitrust ([ITIF](https://itif.org/publications/2022/03/28/schumpeter-prize-best-student-paper-antitrust/)), 2022. **Finalist**, Lear Young Talent Competition Award, 2021._
 
