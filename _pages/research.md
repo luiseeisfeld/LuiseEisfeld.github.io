@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf)
+## [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/JMP_Eisfeld_TSE.pdf) NEW DRAFT COMING SOON.
 
 _**Best Paper Award**, Doctoral Workshop on the Economics of Digitization, 2023.  **Schumpeter Prize**, Best Student Paper on Antitrust ([ITIF](https://itif.org/publications/2022/03/28/schumpeter-prize-best-student-paper-antitrust/)), 2022. **Finalist**, Lear Young Talent Competition Award, 2021._
 
@@ -19,10 +19,10 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 **Presentations**: EARIE (Barcelona), LED Young Economist Seminar (UC Louvain), Competition and Innovation Summer School, HEC Lausanne, TSE.
 
-## Work in Progress
+## Selected Work in Progress
 
 **Who Bears the Brunt of Cost Shocks? Analyzing Pass-Through on Dual-Mode E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
 
-**Presentations**: Stockholm School of Economics, MaCCI (Mannheim), EARIE (Amsterdam), Xiamen University.
+**Presentations**: Stockholm School of Economics, NHH Bergen, MaCCI (Mannheim), EARIE (Amsterdam), Xiamen University.
 
 
