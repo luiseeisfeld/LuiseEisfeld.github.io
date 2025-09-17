@@ -21,5 +21,5 @@ In my research, I study competition, M\&As, and innovation in the context of dig
 
 I am an empirical researcher, and I use both reduced-form analysis and structural econometric models of firm and consumer behavior. My most recent [papers](https://luiseeisfeld.github.io/research/) study entry and market dynamics in software industries, and the functioning of online marketplaces. Both papers use novel datasets.
 
-I obtained my Ph.D. in Economics from the [Toulouse School of Economics](https://www.tse-fr.eu) in 2023. In 2022, I spent six months at the [Technology and Policy Research Initiative](https://sites.bu.edu/tpri/) at Boston University. 
+My research and my teaching at the University of Lausanne have been rewarded with multiple awards in recent years. I obtained my Ph.D. in Economics from the [Toulouse School of Economics](https://www.tse-fr.eu) in 2023. In 2022, I spent six months at the [Technology and Policy Research Initiative](https://sites.bu.edu/tpri/) at Boston University. 
 
