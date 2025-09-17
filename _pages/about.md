@@ -17,7 +17,7 @@ I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub
 * Primary: Corporate Finance; Industrial Organization
 * Secondary: Economics of Digitization & Innovation; Competition Policy
 
-In my research, I study competition, M\&As, and innovation in the context of digitization. More broadly, I am interested in the implications of digitization for market outcomes and economic welfare. 
+In my research, I study competition, M&As, and innovation in the context of digitization. More broadly, I am interested in the implications of digitization for market outcomes and economic welfare. 
 
 I am an empirical researcher, and I use both reduced-form analysis and structural econometric models of firm and consumer behavior. My most recent [papers](https://luiseeisfeld.github.io/research/) study entry and market dynamics in software industries, and the functioning of online marketplaces. Both papers use novel datasets.
 
