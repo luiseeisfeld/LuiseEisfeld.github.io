@@ -5,11 +5,13 @@ permalink: /teaching/
 
 ### Teaching (University of Lausanne)
 
-#### Principles of Finance (Bachelor)
-Co-taught with [Michael Rockinger](https://people.unil.ch/michaelrockinger/bienvenue/), spring 2024.
+In 2024, my teaching was rewarded with the [Best Teacher Award](https://www.unil.ch/news/en/1734015949452) of the MSc Finance program at the University of Lausanne.
 
-#### Valuation (Master)
-Spring 2024.
+#### Principles of Finance (BSc Economics and Management)
+Co-taught with [Michael Rockinger](https://people.unil.ch/michaelrockinger/bienvenue/), spring semester.
+
+#### Valuation (MSc Finance)
+Spring semester.
 
 ### Teaching Assistantships (Toulouse School of Economics)
 
