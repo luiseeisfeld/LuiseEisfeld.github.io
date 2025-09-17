@@ -14,10 +14,10 @@ redirect_from:
 I am an Assistant Professor of Finance at [HEC Lausanne](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnUnite.php?UnId=23&LanCode=37&menu=equi) (the Faculty of Business and Economics of the University of Lausanne) and Faculty Member of the [Swiss Finance Institute](https://www.sfi.ch/en/faculty). I am also an affiliated member of the [AI & Digital Finance Lab](https://sites.google.com/a/nyu.edu/rmihet/ai-finance-lab) at HEC Lausanne.
 
 **Research interests:**
-* Primary: Entrepreneurial Finance; Industrial Organization
+* Primary: Corporate Finance; Industrial Organization
 * Secondary: Economics of Digitization & Innovation; Competition Policy
 
-In my research, I study competition and innovation in the context of digital markets. More broadly, I am interested in the implications of digitization for market outcomes and economic welfare. 
+In my research, I study competition, M\&As, and innovation in the context of digitization. More broadly, I am interested in the implications of digitization for market outcomes and economic welfare. 
 
 I am an empirical researcher, and I use both reduced-form analysis and structural econometric models of firm and consumer behavior. My most recent [papers](https://luiseeisfeld.github.io/research/) study entry and market dynamics in software industries, and the functioning of online marketplaces. Both papers use novel datasets.
 
