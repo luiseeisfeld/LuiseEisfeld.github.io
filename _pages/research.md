@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/Eisfeld_EntryAcq.pdf) (October 2025)
+## [Entry and Acquisitions in Software Markets](https://luiseeisfeld.github.io/assets/docs/Eisfeld_EntryAcq.pdf) (October 2025) [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5680662)
 
 _**Best Paper Award**, Doctoral Workshop on the Economics of Digitization, 2023.  **Schumpeter Prize**, Best Student Paper on Antitrust ([ITIF](https://itif.org/publications/2022/03/28/schumpeter-prize-best-student-paper-antitrust/)), 2022. **Finalist**, Lear Young Talent Competition Award, 2021._
 
@@ -18,12 +18,13 @@ entry. To interpret these patterns and to quantify the underlying mechanisms, I 
 
 Products that are displayed more prominently on e-commerce platforms are more likely to be found and purchased by consumers. The algorithms ranking these products, however, may condition a product's position in a listings page on its price. Using web-scraped data from hotels displayed on Expedia and an instrumental variable identification strategy, I find that the ranking algorithm tends to display hotels at _less_ favorable positions at times at which they are priced _higher_. I provide a framework that employs these estimates jointly with demand parameters obtained from a sequential search model. I simulate a counterfactual scenario, and reveal that Expedia's ranking algorithm tends to intensify price competition between sellers compared to a random ranking. This increases consumer welfare, but reduces seller profits. My finding has consequences for two-sided platforms' optimal design of ranking algorithms: in order to foster adoption, platforms should carefully trade off benefits arising to the two sides, and consider equilibrium effects.
 
-**Presentations**: EARIE (Barcelona), LED Young Economist Seminar (UC Louvain), Competition and Innovation Summer School, HEC Lausanne, TSE.
+**Presentations**: EARIE (Barcelona), LED Young Economist Seminar (UC Louvain), Competition and Innovation Summer School, HEC Lausanne, Toulouse School of Economics.
 
 ## Selected Work in Progress
 
-**Who Bears the Brunt of Cost Shocks? Analyzing Pass-Through on Dual-Mode E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
+**Analyzing Pricing Patterns on Dual-Mode E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
 
 **Presentations**: Stockholm School of Economics, NHH Bergen, MaCCI (Mannheim), EARIE (Amsterdam), Xiamen University.
 
+**When the Merger is Reviewed by Consumers: Stealth Acquisitions and Online Ratings** (with [Reinhold Kesler](https://reinholdkesler.github.io/) and [Ulrich Kaiser](https://www.business.uzh.ch/en/research/professorships/entrepreneurship/team/kaiser.html)
 
