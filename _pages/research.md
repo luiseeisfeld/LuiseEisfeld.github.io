@@ -24,7 +24,7 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 **Analyzing Pricing Patterns on Dual-Mode E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
 
-**Presentations**: Stockholm School of Economics, NHH Bergen, MaCCI (Mannheim), EARIE (Amsterdam), Xiamen University.
+* **Presentations**: Stockholm School of Economics, NHH Bergen, MaCCI (Mannheim), EARIE (Amsterdam), Xiamen University.
 
 **When the Merger is Reviewed by Consumers: Stealth Acquisitions and Online Ratings** (with [Reinhold Kesler](https://reinholdkesler.github.io/) and [Ulrich Kaiser](https://www.business.uzh.ch/en/research/professorships/entrepreneurship/team/kaiser.html)
 
