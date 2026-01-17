@@ -22,7 +22,7 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 ## Selected Work in Progress
 
-**Analyzing Pricing Patterns on Dual-Mode E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
+**Pricing Patterns on Dual-Mode E-Commerce Platforms** (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io))
 
 * **Presentations**: Stockholm School of Economics, NHH Bergen, Toulouse School of Economics ``Frontiers of IO'' Conference, MaCCI (Mannheim), EARIE (Amsterdam), Xiamen University.
 
