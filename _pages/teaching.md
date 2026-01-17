@@ -10,7 +10,6 @@ In 2024, my teaching was rewarded with the [Best Teacher Award](https://www.unil
 #### Principles of Finance (BSc Economics and Management)
 * Spring semester
 * Bilingual (English and French)
-* Co-taught with [Michael Rockinger](https://people.unil.ch/michaelrockinger/bienvenue/)
 
 #### Valuation (MSc Finance)
 * Spring semester
