@@ -27,9 +27,9 @@ My research and my teaching at the University of Lausanne have been rewarded wit
 
 **Contact:**
 
-Email: luise.eisfeld @ unil.ch
+Email: luise.eisfeld@unil.ch
 
 Université de Lausanne  
-Extranef Building, 230  
+Extranef Building, Office 230  
 1015 Lausanne
 Switzerland
