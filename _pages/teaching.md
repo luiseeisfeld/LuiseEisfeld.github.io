@@ -3,7 +3,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-### Teaching (University of Lausanne)
+### Instructor (University of Lausanne)
 
 In 2024, my teaching was rewarded with the [Best Teacher Award](https://www.unil.ch/news/en/1734015949452) of the MSc Finance program at the University of Lausanne.
 
@@ -14,7 +14,7 @@ In 2024, my teaching was rewarded with the [Best Teacher Award](https://www.unil
 #### Valuation (MSc Finance)
 * Spring semester
 
-### Teaching Assistantships (Toulouse School of Economics)
+### Teaching Assistant (Toulouse School of Economics)
 
 #### Competition Policy Workshop (Master)
 Coordinator & Teaching Assistant, Spring 2020 - Fall 2021.
