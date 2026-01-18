@@ -128,7 +128,7 @@
 
 .author__bio {
   margin: 0;
-  font-size: $type-size-5;
+  font-size: 0.9em;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -224,7 +224,7 @@
 
   li {
     white-space: nowrap;
-    font-size: $type-size-5;
+    font-size: 0.9em;
   }
 
   a {
@@ -234,7 +234,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 0.9em;
     text-decoration: none;
 
     &:hover {
