@@ -128,6 +128,7 @@
 
 .author__bio {
   margin: 0;
+  font-size: 0.85em; // Reduced from inherited $type-size-6 (1.1em) to be smaller than name
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -223,6 +224,7 @@
 
   li {
     white-space: nowrap;
+    font-size: 0.85em; // Reduced to be smaller than name, matching bio
   }
 
   a {
@@ -232,7 +234,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 0.85em; // Reduced from $type-size-5 to match bio and be smaller than name
     text-decoration: none;
 
     &:hover {
