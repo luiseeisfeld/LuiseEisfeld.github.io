@@ -5,11 +5,15 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2.5em; // reducing this makes the gap between text and header on a page very small. Increased from 2 to 2.5.
+  margin-top: 1em; // reduced for narrower screens
   padding-left: 1.8em; // original: 1
   padding-right: 1.8em; // set to same value
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+
+  @include breakpoint($large) {
+    margin-top: 2.5em; // larger margin for wider screens with sidebar
+  }
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -153,10 +157,10 @@
     }
 
     .page__title {
-      font-size: $type-size-2;
+      font-size: 1.7em;
 
       @include breakpoint($small) {
-        font-size: $type-size-1;
+        font-size: 2.1em;
       }
     }
   }

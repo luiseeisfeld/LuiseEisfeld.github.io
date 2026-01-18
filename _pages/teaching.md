@@ -3,18 +3,18 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-### Teaching (University of Lausanne)
+### Instructor (University of Lausanne)
 
-In 2024, my teaching was rewarded with the [Best Teacher Award](https://www.unil.ch/news/en/1734015949452) of the MSc Finance program at the University of Lausanne.
+In 2024, my teaching was rewarded with the [Best Teacher Award](https://www.unil.ch/news/en/1734015949452) of the M.Sc. Finance program at the University of Lausanne.
 
-#### Principles of Finance (BSc Economics and Management)
+#### Principles of Finance (B.Sc. Economics and Management)
 * Spring semester
 * Bilingual (English and French)
 
-#### Valuation (MSc Finance)
+#### Valuation (M.Sc. Finance)
 * Spring semester
 
-### Teaching Assistantships (Toulouse School of Economics)
+### Teaching Assistant (Toulouse School of Economics)
 
 #### Competition Policy Workshop (Master)
 Coordinator & Teaching Assistant, Spring 2020 - Fall 2021.
