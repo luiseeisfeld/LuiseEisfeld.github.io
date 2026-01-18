@@ -23,3 +23,12 @@ I am an empirical researcher, and I use both reduced-form analysis and structura
 
 My research and my teaching at the University of Lausanne have been rewarded with multiple awards in recent years. I obtained my Ph.D. in Economics from the [Toulouse School of Economics](https://www.tse-fr.eu) in 2023. In 2022, I spent six months at the [Technology and Policy Research Initiative](https://sites.bu.edu/tpri/) at Boston University. 
 
+---
+
+**Contact:**
+
+Email: luise.eisfeld@unil.ch
+
+Address: Université de Lausanne  
+Extranef Building, 230  
+1015 Lausanne
