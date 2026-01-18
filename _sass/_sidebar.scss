@@ -11,7 +11,12 @@
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  
+  @include breakpoint($large) {
+    margin-bottom: 1em;
+  }
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -47,7 +52,9 @@
   }
 
   img {
-    width: 140%; // changed from 100%
+    max-width: 100%;
+    width: auto;
+    height: auto;
   }
 }
 
@@ -88,14 +95,19 @@
   }
 
   img {
-    max-width: 390px;
+    max-width: 200px;
+    width: 100%;
     border-radius: 70%;
     margin: auto;
     padding: 7px;
-    //@include breakpoint($large) {
-    //  padding: 5px;  
-    //  border: 1px solid $border-color;
-    // }
+    
+    @include breakpoint($medium) {
+      max-width: 250px;
+    }
+    
+    @include breakpoint($large) {
+      max-width: 300px;
+    }
   }
 }
 
@@ -112,6 +124,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    padding-top: 0;
   }
 }
 

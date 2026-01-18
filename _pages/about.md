@@ -31,5 +31,5 @@ Email: luise.eisfeld@unil.ch
 
 Université de Lausanne  
 Extranef Building, Office 230  
-1015 Lausanne
+1015 Lausanne  
 Switzerland
