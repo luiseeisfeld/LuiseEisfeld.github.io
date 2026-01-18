@@ -11,16 +11,10 @@
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-bottom: 0.5em;
-  margin-top: 0;
-  
-  @include breakpoint($large) {
-    margin-bottom: 1em;
-  }
+  margin-bottom: 1em;
 
   @include breakpoint($large) {
     @include span(2 of 12);
-    margin-right: 2em;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -33,7 +27,6 @@
 
   @include breakpoint($x-large) {
     padding-right: 0;
-    margin-right: 2.5em;
   }
 
   h2, h3, h4, h5, h6 {
@@ -42,7 +35,7 @@
   }
 
   h3, h4 {
-    font-size: 0.95em;
+    font-size: $type-size-5;
   }
 
   p, li {
@@ -52,9 +45,7 @@
   }
 
   img {
-    max-width: 100%;
-    width: auto;
-    height: auto;
+    width: 100%;
   }
 }
 
@@ -81,12 +72,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 46px; // changed from 40px to 46px
+  width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
-   // now, set both to auto:
-   //width: auto;
-   //length: auto;
 
   @include breakpoint($large) {
     display: block;
@@ -95,18 +83,12 @@
   }
 
   img {
-    max-width: 200px;
-    width: 100%;
-    border-radius: 70%;
-    margin: auto;
-    padding: 7px;
-    
-    @include breakpoint($medium) {
-      max-width: 250px;
-    }
-    
+    max-width: 175px;
+    border-radius: 50%;
+
     @include breakpoint($large) {
-      max-width: 300px;
+      padding: 5px;
+      border: 1px solid $border-color;
     }
   }
 }
@@ -114,8 +96,7 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-top: 10px; // changed from 15px to 10px - necessary; this way it's perfectly aligned with photo on small screen.
-  padding-left: 25px; // changed from 15px to 25px - again, this way it's perfectly aligned.
+  padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
 
@@ -124,7 +105,6 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
-    padding-top: 0;
   }
 }
 
@@ -138,7 +118,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-4;
+  font-size: $type-size-5;
 }
 
 .author__bio {
@@ -239,7 +219,7 @@
 
   li {
     white-space: nowrap;
-    font-size: 0.85em; // Reduced to be smaller than name, matching bio
+    font-size: 0.85em; // Reduced to be smaller than name, matching bio (custom change)
     line-height: 1.5;
     font-weight: normal;
   }
@@ -251,9 +231,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: inherit; // Inherits from parent li (0.85em)
-    line-height: inherit;
-    font-weight: inherit;
+    font-size: inherit; // Inherits from parent li (0.85em) to match bio
     text-decoration: none;
 
     &:hover {
