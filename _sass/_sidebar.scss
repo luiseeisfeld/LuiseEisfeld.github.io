@@ -123,7 +123,7 @@
 
 .author__bio {
   margin: 0;
-  font-size: 0.85em; // Reduced to be smaller than name
+  font-size: 0.8em; // Reduced to be slightly smaller than name
 
   @include breakpoint($large) {
     margin-top: 10px;
