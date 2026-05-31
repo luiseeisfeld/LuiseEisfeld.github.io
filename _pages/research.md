@@ -27,6 +27,10 @@ Many of today's e-commerce platforms operate under a _dual mode_: they not only 
 
 ## Selected Work in Progress
 
+**M&As and Privacy Regulation** (draft available upon request)
+
+* **Presentations**: Swiss Finance Institute; University of Lausanne; Toulouse School of Economics.
+
 **When the Merger is Reviewed by Consumers: Stealth Acquisitions and Online Ratings** (with [Reinhold Kesler](https://reinholdkesler.github.io/) and [Ulrich Kaiser](https://www.business.uzh.ch/en/research/professorships/entrepreneurship/team/kaiser.html))
 
 * **Presentations**: MaCCI (Mannheim).
