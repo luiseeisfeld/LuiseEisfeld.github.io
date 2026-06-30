@@ -4,15 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## [Entry and Acquisitions in Software Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5680662) (October 2025)
-
-_**Best Paper Award**, Doctoral Workshop on the Economics of Digitization, 2023.  **Schumpeter Prize**, Best Student Paper on Antitrust ([ITIF](https://itif.org/publications/2022/03/28/schumpeter-prize-best-student-paper-antitrust/)), 2022. **Finalist**, Lear Young Talent Competition Award, 2021._
-
-How do acquisitions of young, innovative, venture capital-funded firms (startups) affect firms’ incentives to enter a market? I build a novel product-level dataset of enterprise software, and apply text-as-data methods to identify competing firms. I document new empirical patterns on startup acquisitions in software, including who acquires whom, and how these acquisitions relate to subsequent
-entry. To interpret these patterns and to quantify the underlying mechanisms, I build and estimate a dynamic model of startup entry in the face of these acquisitions. In the model, acquisitions influence returns to entry (1) by affecting market structure, and (2) by creating an entry-for-buyout incentive for potential entrants. Using the estimated model, I simulate how entry would evolve under alternative merger policies. The simulations reveal that, if all startup acquisitions were blocked, entry would decline by about 16% in the average market. By contrast, blocking acquisitions conducted by established incumbents at high transaction prices increases entry slightly. Accordingly, enforcement that prioritizes review of incumbent-led, high-value acquisitions is likely to sustain startup entry.
-    
-**Selected Presentations**: CEPR-JIE Summer School (Cambridge, UK), HEC Lausanne, HEC Montreal, McGill, Royal Holloway (London), Sciences Po (Paris), HEC Paris, CREST (Paris), KU Leuven (MSI), ifo Institute, DICE (Düsseldorf), University of Mannheim, Boston University (Questrom Strategy Brown Bag & IO Reading Group), Technology & Policy Research Initivative (TPRI), ZEW (Mannheim), IIOC (Washington D.C.), EARIE (Vienna), APPAM (Washington D.C.), MFA (Chicago), SFI Research Days (Gerzensee), University of Zürich (Department of Business Administration), Bridging Theory and Empirical Research in Finance (Boston College).
-
 ## [Pricing Patterns on Dual-Mode E-Commerce Platforms](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io)) (June 2026)
 
 Many of today’s e-commerce platforms operate under a _dual_ mode: they not only provide online marketplaces where third-party sellers compete and offer products, but also act as retailers selling products of their own. We study how dual-mode operation changes price
@@ -21,6 +12,15 @@ modestly more to changes in other third-party sellers’ availability than to ch
 and cumulative pass-through for third-party sellers rises toward full transmission at longer horizons.
 
 **Presentations**: Stockholm School of Economics, NHH Bergen, Toulouse School of Economics "Frontiers in IO'' Conference, Paris Conference on Digital Economics, Bristol Empirical IO Workshop, Zurich Workshop on Digital Platforms, MaCCI (Mannheim), EARIE (Amsterdam), Swiss IO Day, Xiamen University.
+
+## [Entry and Acquisitions in Software Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5680662) (October 2025)
+
+_**Best Paper Award**, Doctoral Workshop on the Economics of Digitization, 2023.  **Schumpeter Prize**, Best Student Paper on Antitrust ([ITIF](https://itif.org/publications/2022/03/28/schumpeter-prize-best-student-paper-antitrust/)), 2022. **Finalist**, Lear Young Talent Competition Award, 2021._
+
+How do acquisitions of young, innovative, venture capital-funded firms (startups) affect firms’ incentives to enter a market? I build a novel product-level dataset of enterprise software, and apply text-as-data methods to identify competing firms. I document new empirical patterns on startup acquisitions in software, including who acquires whom, and how these acquisitions relate to subsequent
+entry. To interpret these patterns and to quantify the underlying mechanisms, I build and estimate a dynamic model of startup entry in the face of these acquisitions. In the model, acquisitions influence returns to entry (1) by affecting market structure, and (2) by creating an entry-for-buyout incentive for potential entrants. Using the estimated model, I simulate how entry would evolve under alternative merger policies. The simulations reveal that, if all startup acquisitions were blocked, entry would decline by about 16% in the average market. By contrast, blocking acquisitions conducted by established incumbents at high transaction prices increases entry slightly. Accordingly, enforcement that prioritizes review of incumbent-led, high-value acquisitions is likely to sustain startup entry.
+    
+**Selected Presentations**: CEPR-JIE Summer School (Cambridge, UK), HEC Lausanne, HEC Montreal, McGill, Royal Holloway (London), Sciences Po (Paris), HEC Paris, CREST (Paris), KU Leuven (MSI), ifo Institute, DICE (Düsseldorf), University of Mannheim, Boston University (Questrom Strategy Brown Bag & IO Reading Group), Technology & Policy Research Initivative (TPRI), ZEW (Mannheim), IIOC (Washington D.C.), EARIE (Vienna), APPAM (Washington D.C.), MFA (Chicago), SFI Research Days (Gerzensee), University of Zürich (Department of Business Administration), Bridging Theory and Empirical Research in Finance (Boston College).
 
 ## [How do Online Product Rankings Influence Sellers’ Pricing Behavior?](https://luiseeisfeld.github.io/assets/docs/HotelRankings_Eisfeld_TSE.pdf) (December 2023)
 
