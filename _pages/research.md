@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## [Pricing Patterns on Dual-Mode E-Commerce Platforms](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io)) (June 2026)
+## [Pricing Patterns on Dual-Mode E-Commerce Platforms](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io)) (July 2026)
 
 Many of today’s e-commerce platforms operate under a _dual_ mode: they not only provide online marketplaces where third-party sellers compete and offer products, but also act as retailers selling products of their own. We study how dual-mode operation changes price
 competition on e-commerce platforms. Using an oligopoly pricing model, we show that, if the platform both earns commissions on third-party sales and retails on its own marketplace, price competition changes along two margins: platform retail presence can exert a more or less competitive effect on rivals’ prices, and common cost shocks need not be passed through symmetrically across seller types. Using data from Amazon’s U.S. marketplace, we exploit repeated within-product entry and exit episodes to show that third-party prices tend to respond
