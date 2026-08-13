@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## [Pricing Patterns on Dual-Mode E-Commerce Platforms](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io)) (August 2026)
+## [Asymmetric Price Competition on Hybrid Platforms: Theory and Evidence from Amazon](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io)) (August 2026)
 
 Many e-commerce platforms operate in hybrid mode: they host third-party sellers, earning ad-valorem commissions, while also retailing directly. In an oligopoly model, this creates two platform-specific incentives – a revenue-sharing effect and a commission-saving effect – implying that platform retail presence can exert weaker competitive pressure than third-party entry, and that common cost shocks are passed through asymmetrically across seller types. Using data from Amazon’s U.S. marketplace and repeated within-product availability changes, we find that third-party prices respond modestly more to third-party entry and exit than to Amazon’s. Consistent with the model, we estimate that commodity cost shocks are fully passed on to final prices by third-party sellers, whereas pass-through is significantly lower in the case of Amazon.
 
