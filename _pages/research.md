@@ -6,7 +6,9 @@ author_profile: true
 
 ## [Asymmetric Price Competition on Hybrid Platforms: Theory and Evidence from Amazon](https://luiseeisfeld.github.io/assets/docs/EisfeldYanYu_HybridPlatformPricing.pdf) (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io)) (August 2026)
 
-Many e-commerce platforms operate in hybrid mode: they host third-party sellers, earning ad valorem commissions, while also retailing directly. In an oligopoly model, this creates two platform-specific incentives – a revenue-sharing effect and a double-markup effect – implying that platform retail presence can exert weaker competitive pressure than third-party entry, and that common cost shocks are passed through asymmetrically across seller types. Using data from Amazon’s U.S. marketplace and repeated within-product availability changes, we find that third-party prices respond modestly more to third-party entry and exit than to Amazon’s. Consistent with the model, we estimate that commodity cost shocks are fully passed on to final prices by third-party sellers, whereas pass-through is significantly lower in the case of Amazon.
+We study how hybrid platform operation, in which a platform competes with third-party sellers while charging a commission on their sales, shapes pricing incentives. Our model identifies two channels induced by the ad valorem commission –- a revenue sharing and a double markup
+effect –- that generate asymmetric pricing behavior between the platform and third-party sellers. Using data from Amazon’s U.S. marketplace, we find patterns consistent with the model’s predictions: third-party prices respond moderately more strongly to third-party entry and exit
+than to Amazon entry and exit, and significantly more strongly than Amazon prices to common commodity-cost shocks.
 
 **Presentations**: Stockholm School of Economics, NHH Bergen, Toulouse School of Economics "Frontiers in IO'' Conference, Paris Conference on Digital Economics, Bristol Empirical IO Workshop, Zurich Workshop on Digital Platforms, MaCCI (Mannheim), EARIE (Amsterdam), Swiss IO Day (Bern), Xiamen University.
 
