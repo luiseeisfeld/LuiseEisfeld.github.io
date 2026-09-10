@@ -6,11 +6,11 @@ author_profile: true
 
 ## [Asymmetric Price Competition on Hybrid Platforms: Theory and Evidence from Amazon](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7437279) (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io)) (August 2026)
 
-We study how hybrid platform operation, in which a platform competes with third-party sellers while charging a commission on their sales, shapes pricing incentives. Our model identifies two channels induced by the ad valorem commission –- a revenue sharing and a double markup
-effect –- that generate asymmetric pricing behavior between the platform and third-party sellers. Using data from Amazon’s U.S. marketplace, we find patterns consistent with the model’s predictions: third-party prices respond moderately more strongly to third-party entry and exit
+We study how hybrid platform operation, in which a platform competes with third-party sellers while charging a commission on their sales, shapes pricing incentives. Our model identifies two channels induced by the ad valorem commission – a revenue sharing and a double markup
+effect – that generate asymmetric pricing behavior between the platform and third-party sellers. Using data from Amazon’s U.S. marketplace, we find patterns consistent with the model’s predictions: third-party prices respond moderately more strongly to third-party entry and exit
 than to Amazon entry and exit, and significantly more strongly than Amazon prices to common commodity-cost shocks.
 
-**Presentations**: Stockholm School of Economics, NHH Bergen, Toulouse School of Economics "Frontiers in IO'' Conference, Paris Conference on Digital Economics, Bristol Empirical IO Workshop, Zurich Workshop on Digital Platforms, MaCCI (Mannheim), EARIE (Amsterdam), Swiss IO Day (Bern), Xiamen University.
+**Presentations**: Stockholm School of Economics, NHH Bergen, Toulouse School of Economics "Frontiers in IO'' Conference, Paris Conference on Digital Economics, Bristol Empirical IO Workshop, Zurich Workshop on Digital Platforms, MaCCI (Mannheim), EARIE (Amsterdam), Swiss IO Day (Bern), Jornadas de Economía Industrial (Málaga), Xiamen University.
 
 ## [Entry and Acquisitions in Software Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5680662) (October 2025)
 
@@ -31,7 +31,7 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 **M&As and Privacy Regulation** (draft available upon request)
 
-* **Presentations**: Swiss Finance Institute; University of Lausanne; Toulouse School of Economics.
+* **Presentations**: Private Markets Conference St. Gallen, Swiss Finance Institute, University of Lausanne, Toulouse School of Economics.
 
 **When the Merger is Reviewed by Consumers: Stealth Acquisitions and Online Ratings** (with [Reinhold Kesler](https://reinholdkesler.github.io/) and [Ulrich Kaiser](https://www.business.uzh.ch/en/research/professorships/entrepreneurship/team/kaiser.html))
 
