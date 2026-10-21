@@ -29,7 +29,7 @@ Products that are displayed more prominently on e-commerce platforms are more li
 
 ## Selected Work in Progress
 
-**M&As and Privacy Regulation** (draft available upon request)
+**M&As and Privacy Regulation** (with [Garrett A. Johnson](https://www.garjoh.com/); draft available upon request)
 
 * **Presentations**: Private Markets Conference St. Gallen, Swiss Finance Institute, University of Lausanne, Toulouse School of Economics.
 
