@@ -4,6 +4,12 @@ permalink: /research/
 author_profile: true
 ---
 
+## M&As and Privacy Regulation
+
+This paper examines how privacy laws affect the market for corporate control. Privacy laws may increase legal uncertainty and asymmetric information about a target's data assets, and make data more difficult to redeploy following a merger. Using textual analysis on a corpus of SEC-filed Definitive Merger Agreements, I find that privacy representations, which are sellers' promises to the buyer about their own data practices, become common as privacy laws are introduced. These representations cover more risks over time, consistent with buyers shifting part of the risk to sellers. Using the EU's General Data Protection Regulation (GDPR) as a policy shock within a triple-differences design, I find that more exposed EU targets are more often bought by EU acquirers and less often paid for entirely in cash, whereas I find no statistically significant effect on takeover premia. These results highlight that product-market regulations designed to protect consumers can have unintended consequences for M&As. Merging parties respond in subtle ways to such regulation by changing whom they acquire, on what terms, and how they pay. 
+
+**Presentations**: Private Markets Conference St. Gallen, Swiss Finance Institute, University of Lausanne, Toulouse School of Economics.
+
 ## [Asymmetric Price Competition on Hybrid Platforms: Theory and Evidence from Amazon](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7437279) (with [Jun Yan](https://sites.google.com/view/jun-yan) and [Li Yu](https://liyu0510.github.io)) (August 2026)
 
 We study how hybrid platform operation, in which a platform competes with third-party sellers while charging a commission on their sales, shapes pricing incentives. Our model identifies two channels induced by the ad valorem commission – a revenue sharing and a double markup
@@ -28,10 +34,6 @@ Products that are displayed more prominently on e-commerce platforms are more li
 **Presentations**: EARIE (Barcelona), LED Young Economist Seminar (UC Louvain), Competition and Innovation Summer School, HEC Lausanne, Toulouse School of Economics.
 
 ## Selected Work in Progress
-
-**M&As and Privacy Regulation** (with [Garrett A. Johnson](https://www.garjoh.com/); draft available upon request)
-
-* **Presentations**: Private Markets Conference St. Gallen, Swiss Finance Institute, University of Lausanne, Toulouse School of Economics.
 
 **When the Merger is Reviewed by Consumers: Stealth Acquisitions and Online Ratings** (with [Reinhold Kesler](https://reinholdkesler.github.io/) and [Ulrich Kaiser](https://www.business.uzh.ch/en/research/professorships/entrepreneurship/team/kaiser.html))
 
