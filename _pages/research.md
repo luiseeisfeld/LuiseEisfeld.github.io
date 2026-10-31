@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## M&As and Privacy Regulation
+## NEW: [M&As and Privacy Regulation](https://luiseeisfeld.github.io/assets/docs/Eisfeld_GDPR_MnA.pdf)
 
 This paper examines how privacy laws affect the market for corporate control. Privacy laws may increase legal uncertainty and asymmetric information about a target's data assets, and make data more difficult to redeploy following a merger. Using textual analysis on a corpus of SEC-filed Definitive Merger Agreements, I find that privacy representations, which are sellers' promises to the buyer about their own data practices, become common as privacy laws are introduced. These representations cover more risks over time, consistent with buyers shifting part of the risk to sellers. Using the EU's General Data Protection Regulation (GDPR) as a policy shock within a triple-differences design, I find that more exposed EU targets are more often bought by EU acquirers and less often paid for entirely in cash, whereas I find no statistically significant effect on takeover premia. These results highlight that product-market regulations designed to protect consumers can have unintended consequences for M&As. Merging parties respond in subtle ways to such regulation by changing whom they acquire, on what terms, and how they pay. 
 
